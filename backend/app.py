@@ -57,3 +57,54 @@ async def chat(req: ChatRequest):
         return {
             "error": str(e)
         }
+    from fastapi import Request
+
+    VERIFY_TOKEN = "emoji_chat_verify"
+
+    @app.get("/whatsapp/webhook")
+    async def verify(request: Request):
+        params = request.query_params
+        if params.get("hub.verify_token") == VERIFY_TOKEN:
+            return int(params.get("hub.challenge"))
+        return {"error": "Invalid verification token"}
+
+    @app.post("/whatsapp/webhook")
+    async def receive_message(request: Request):
+        data = await request.json()
+        print("收到消息:", data)
+
+        try:
+            message = data["entry"][0]["changes"][0]["value"]["messages"][0]["text"]["body"]
+            from_number = data["entry"][0]["changes"][0]["value"]["messages"][0]["from"]
+
+            # 调用 GPT
+            response = client.responses.create(
+                model="gpt-5.4",
+                input=message
+            )
+
+            reply = response.output_text
+
+            # 回消息给 WhatsApp
+            import requests
+
+            url = f"https://graph.facebook.com/v18.0/{os.getenv('WHATSAPP_PHONE_NUMBER_ID')}/messages"
+
+            headers = {
+                "Authorization": f"Bearer {os.getenv('WHATSAPP_ACCESS_TOKEN')}",
+                "Content-Type": "application/json"
+            }
+
+            payload = {
+                "messaging_product": "whatsapp",
+                "to": from_number,
+                "type": "text",
+                "text": {"body": reply}
+            }
+
+            requests.post(url, headers=headers, json=payload)
+
+        except Exception as e:
+            print("ERROR:", e)
+
+        return {"status": "ok"}
