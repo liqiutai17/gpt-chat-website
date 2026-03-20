@@ -8,11 +8,11 @@ from pathlib import Path
 import os
 import requests
 
-# ===== 加载 .env =====
+# ===== Load .env from project root =====
 BASE_DIR = Path(__file__).resolve().parent.parent
 load_dotenv(BASE_DIR / ".env")
 
-# ===== 创建 FastAPI =====
+# ===== Create FastAPI app =====
 app = FastAPI()
 
 app.add_middleware(
@@ -22,7 +22,7 @@ app.add_middleware(
     allow_headers=["*"],
 )
 
-# ===== 环境变量 =====
+# ===== Environment variables =====
 OPENAI_API_KEY = os.getenv("OPENAI_API_KEY")
 WHATSAPP_ACCESS_TOKEN = os.getenv("WHATSAPP_ACCESS_TOKEN")
 WHATSAPP_PHONE_NUMBER_ID = os.getenv("WHATSAPP_PHONE_NUMBER_ID")
@@ -32,22 +32,22 @@ print("OPENAI:", bool(OPENAI_API_KEY))
 print("WA TOKEN:", bool(WHATSAPP_ACCESS_TOKEN))
 print("WA ID:", bool(WHATSAPP_PHONE_NUMBER_ID))
 
-# ===== OpenAI 客户端 =====
+# ===== OpenAI client =====
 client = OpenAI(api_key=OPENAI_API_KEY)
 
-# ===== 记录每个用户当前模式 =====
+# ===== Store each user's current mode =====
 user_modes = {}
 
-# ===== 数据模型 =====
+# ===== Request model for web chat =====
 class ChatRequest(BaseModel):
     message: str
 
-# ===== 根路由 =====
+# ===== Root route =====
 @app.get("/")
 async def root():
     return {"message": "GPT backend is running"}
 
-# ===== baseline GPT =====
+# ===== Baseline GPT =====
 def ask_baseline_gpt(message: str) -> str:
     response = client.responses.create(
         model="gpt-5.4",
@@ -55,7 +55,7 @@ def ask_baseline_gpt(message: str) -> str:
     )
     return response.output_text
 
-# ===== customized GPT =====
+# ===== Customized GPT =====
 def ask_custom_gpt(message: str) -> str:
     response = client.responses.create(
         model="gpt-5.4",
@@ -64,7 +64,7 @@ def ask_custom_gpt(message: str) -> str:
                 "role": "system",
                 "content": (
                     "You are a friendly WhatsApp chat partner. "
-                    "Reply naturally, briefly, and conversationally. "
+                    "Reply naturally, briefly, and conversationally in English. "
                     "Use emojis selectively when they help express warmth, stance, alignment, or emotion. "
                     "Do not overuse emojis. "
                     "Sound human-like and natural in WhatsApp-style interaction."
@@ -78,7 +78,7 @@ def ask_custom_gpt(message: str) -> str:
     )
     return response.output_text
 
-# ===== 网页接口（默认 baseline）=====
+# ===== Web route (defaults to baseline) =====
 @app.post("/chat")
 async def chat(req: ChatRequest):
     try:
@@ -88,7 +88,7 @@ async def chat(req: ChatRequest):
         print("CHAT ERROR:", e)
         return {"error": str(e)}
 
-# ===== WhatsApp webhook 验证 =====
+# ===== WhatsApp webhook verification =====
 @app.get("/whatsapp/webhook")
 async def verify_webhook(request: Request):
     mode = request.query_params.get("hub.mode")
@@ -102,7 +102,7 @@ async def verify_webhook(request: Request):
 
     return PlainTextResponse("Verification failed", status_code=403)
 
-# ===== 发送 WhatsApp 消息 =====
+# ===== Send WhatsApp text message =====
 def send_whatsapp_text(to_number: str, text: str):
     url = f"https://graph.facebook.com/v23.0/{WHATSAPP_PHONE_NUMBER_ID}/messages"
 
@@ -121,7 +121,7 @@ def send_whatsapp_text(to_number: str, text: str):
     res = requests.post(url, headers=headers, json=payload, timeout=30)
     print("SEND:", res.status_code, res.text)
 
-# ===== 接收 WhatsApp 消息 =====
+# ===== Receive WhatsApp messages =====
 @app.post("/whatsapp/webhook")
 async def receive_webhook(request: Request):
     data = await request.json()
@@ -137,58 +137,58 @@ async def receive_webhook(request: Request):
         from_number = msg["from"]
 
         if msg["type"] != "text":
-            send_whatsapp_text(from_number, "目前只支持文字消息 😊")
+            send_whatsapp_text(from_number, "Currently, only text messages are supported 😊")
             return {"status": "unsupported"}
 
         user_text = msg["text"]["body"].strip()
 
-        # ===== 切换到 baseline =====
+        # ===== Switch to baseline =====
         if user_text.lower() == "/baseline":
             user_modes[from_number] = "baseline"
             send_whatsapp_text(
                 from_number,
-                "已切换到 baseline 模式。现在你发来的消息都会进入 baseline 路线。"
+                "Switched to baseline mode. Your messages will now be handled by the baseline system."
             )
             return {"status": "mode set"}
 
-        # ===== 切换到 custom =====
+        # ===== Switch to custom =====
         if user_text.lower() == "/custom":
             user_modes[from_number] = "custom"
             send_whatsapp_text(
                 from_number,
-                "已切换到 customized 模式。现在你发来的消息都会进入 customized 路线。"
+                "Switched to customized mode. Your messages will now be handled by the customized system."
             )
             return {"status": "mode set"}
 
-        # ===== 查看当前模式 =====
+        # ===== Show current mode =====
         if user_text.lower() == "/mode":
             current_mode = user_modes.get(from_number, "baseline")
             send_whatsapp_text(
                 from_number,
-                f"你当前的模式是：{current_mode}"
+                f"Your current mode is: {current_mode}"
             )
             return {"status": "mode shown"}
 
-        # ===== 帮助指令 =====
+        # ===== Help =====
         if user_text.lower() == "/help":
             help_text = (
-                "可用指令：\n"
-                "/baseline 切换到 baseline 路线\n"
-                "/custom 切换到 customized 路线\n"
-                "/mode 查看当前模式\n"
-                "/help 查看帮助"
+                "Available commands:\n"
+                "/baseline - switch to baseline mode\n"
+                "/custom - switch to customized mode\n"
+                "/mode - check current mode\n"
+                "/help - show this help message"
             )
             send_whatsapp_text(from_number, help_text)
             return {"status": "help shown"}
 
-        # ===== 默认模式：baseline =====
+        # ===== Default mode =====
         if from_number not in user_modes:
             user_modes[from_number] = "baseline"
 
         current_mode = user_modes[from_number]
         print("CURRENT MODE:", from_number, current_mode)
 
-        # ===== 按模式调用不同 GPT =====
+        # ===== Route message =====
         if current_mode == "baseline":
             reply = ask_baseline_gpt(user_text)
         else:
