@@ -36,7 +36,7 @@ print("WA ID:", bool(WHATSAPP_PHONE_NUMBER_ID))
 
 client = OpenAI(api_key=OPENAI_API_KEY)
 
-# ===== Store modes and conversation histories =====
+# ===== Each phone number has its own mode and history =====
 user_modes = {}
 user_histories = {}
 
@@ -73,11 +73,11 @@ How to reply:
 - Stay in role as Grace Owen.
 - Reply directly to Billy’s latest message.
 - Use the previous conversation context.
-- Do NOT repeat the same information in every turn.
+- Do not repeat the same information in every turn.
 - Once you have already said you do not remember seeing the email, do not keep repeating it unless Billy asks again.
 - Once you have already said you are unavailable until Monday, do not keep repeating it unless needed.
-- Do NOT rewrite, correct, or improve Billy’s message.
-- Do NOT act as Billy.
+- Do not rewrite, correct, or improve Billy’s message.
+- Do not act as Billy.
 - You are Grace replying to Billy.
 - Negotiate naturally as the conversation develops.
 - If Billy proposes a reasonable next step, acknowledge it.
@@ -92,8 +92,16 @@ How to reply:
 CUSTOM_ROLE_PROMPT = ""
 
 
+def get_safe_id(participant_id: str) -> str:
+    return participant_id.replace("+", "").replace(" ", "")
+
+
+def reset_history(participant_id: str):
+    user_histories[participant_id] = []
+
+
 def save_conversation(participant_id: str, mode: str, user_text: str, gpt_reply: str):
-    safe_id = participant_id.replace("+", "").replace(" ", "")
+    safe_id = get_safe_id(participant_id)
     file_path = CONVERSATION_DIR / f"participant_{safe_id}_{mode}.jsonl"
 
     record = {
@@ -106,10 +114,6 @@ def save_conversation(participant_id: str, mode: str, user_text: str, gpt_reply:
 
     with open(file_path, "a", encoding="utf-8") as f:
         f.write(json.dumps(record, ensure_ascii=False) + "\n")
-
-
-def reset_history(participant_id: str):
-    user_histories[participant_id] = []
 
 
 @app.get("/")
@@ -176,9 +180,16 @@ def ask_custom_gpt(participant_id: str, message: str) -> str:
 @app.post("/chat")
 async def chat(req: ChatRequest):
     try:
-        reply = ask_baseline_gpt("web_user", req.message)
-        save_conversation("web_user", "baseline", req.message, reply)
+        participant_id = "web_user"
+
+        if participant_id not in user_modes:
+            user_modes[participant_id] = "baseline"
+
+        reply = ask_baseline_gpt(participant_id, req.message)
+        save_conversation(participant_id, "baseline", req.message, reply)
+
         return {"reply": reply}
+
     except Exception as e:
         print("CHAT ERROR:", e)
         return {"error": str(e)}
@@ -237,18 +248,21 @@ async def receive_webhook(request: Request):
 
         user_text = msg["text"]["body"].strip()
 
+        # ===== Baseline: auto reset this phone number only =====
         if user_text.lower() == "/baseline":
             user_modes[from_number] = "baseline"
             reset_history(from_number)
             send_whatsapp_text(from_number, "Switched to baseline role-play.")
-            return {"status": "mode set"}
+            return {"status": "baseline mode set and history reset"}
 
+        # ===== Custom: auto reset this phone number only =====
         if user_text.lower() == "/custom":
             user_modes[from_number] = "custom"
             reset_history(from_number)
             send_whatsapp_text(from_number, "Switched to customized role-play.")
-            return {"status": "mode set"}
+            return {"status": "custom mode set and history reset"}
 
+        # ===== Manual reset for this phone number only =====
         if user_text.lower() == "/reset":
             reset_history(from_number)
             send_whatsapp_text(from_number, "Conversation history has been reset.")
@@ -262,8 +276,8 @@ async def receive_webhook(request: Request):
         if user_text.lower() == "/help":
             help_text = (
                 "Available commands:\n"
-                "/baseline - switch to baseline role-play\n"
-                "/custom - switch to customized role-play\n"
+                "/baseline - switch to baseline role-play and reset history\n"
+                "/custom - switch to customized role-play and reset history\n"
                 "/reset - reset conversation history\n"
                 "/mode - check current mode\n"
                 "/help - show this help message"
@@ -271,6 +285,7 @@ async def receive_webhook(request: Request):
             send_whatsapp_text(from_number, help_text)
             return {"status": "help shown"}
 
+        # ===== Default mode for this phone number =====
         if from_number not in user_modes:
             user_modes[from_number] = "baseline"
 
