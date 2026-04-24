@@ -9,6 +9,7 @@ from datetime import datetime
 import os
 import requests
 import json
+import time
 import pandas as pd
 
 # ===== Load .env =====
@@ -37,11 +38,9 @@ print("WA ID:", bool(WHATSAPP_PHONE_NUMBER_ID))
 
 client = OpenAI(api_key=OPENAI_API_KEY)
 
-# ===== Each phone number has its own mode and history =====
 user_modes = {}
 user_histories = {}
 
-# ===== Save folder =====
 CONVERSATION_DIR = Path(__file__).resolve().parent / "conversations"
 CONVERSATION_DIR.mkdir(exist_ok=True)
 
@@ -117,20 +116,32 @@ def clean_reply(text: str) -> str:
     return text.strip()
 
 
-def save_conversation(participant_id: str, mode: str, user_text: str, gpt_reply: str):
+def save_conversation(
+    participant_id: str,
+    mode: str,
+    user_text: str,
+    gpt_reply: str,
+    user_sent_time: str,
+    gpt_reply_time: str,
+    response_time_seconds: float
+):
     safe_id = get_safe_id(participant_id)
     file_path = CONVERSATION_DIR / f"participant_{safe_id}_{mode}.jsonl"
 
     record = {
-        "timestamp": datetime.now().isoformat(),
         "participant_id": participant_id,
         "mode": mode,
+        "user_sent_time": user_sent_time,
+        "gpt_reply_time": gpt_reply_time,
+        "response_time_seconds": response_time_seconds,
         "user_message": user_text,
         "gpt_reply": gpt_reply
     }
 
     with open(file_path, "a", encoding="utf-8") as f:
         f.write(json.dumps(record, ensure_ascii=False) + "\n")
+
+    print("SAVED TO:", file_path)
 
 
 @app.get("/")
@@ -198,12 +209,28 @@ def ask_custom_gpt(participant_id: str, message: str) -> str:
 async def chat(req: ChatRequest):
     try:
         participant_id = "web_user"
+        mode = "baseline"
 
         if participant_id not in user_modes:
-            user_modes[participant_id] = "baseline"
+            user_modes[participant_id] = mode
+
+        user_sent_time = datetime.now().isoformat()
+        start_time = time.time()
 
         reply = ask_baseline_gpt(participant_id, req.message)
-        save_conversation(participant_id, "baseline", req.message, reply)
+
+        response_time_seconds = round(time.time() - start_time, 3)
+        gpt_reply_time = datetime.now().isoformat()
+
+        save_conversation(
+            participant_id,
+            mode,
+            req.message,
+            reply,
+            user_sent_time,
+            gpt_reply_time,
+            response_time_seconds
+        )
 
         return {"reply": reply}
 
@@ -224,10 +251,13 @@ async def download_excel():
                 record = json.loads(line)
 
                 all_data.append({
+                    "source_file": file.name,
                     "participant_id": record.get("participant_id", ""),
                     "mode": record.get("mode", ""),
                     "turn_number": turn_number,
-                    "timestamp": record.get("timestamp", ""),
+                    "user_sent_time": record.get("user_sent_time", ""),
+                    "gpt_reply_time": record.get("gpt_reply_time", ""),
+                    "response_time_seconds": record.get("response_time_seconds", ""),
                     "user_message": record.get("user_message", ""),
                     "gpt_reply": record.get("gpt_reply", "")
                 })
@@ -339,12 +369,27 @@ async def receive_webhook(request: Request):
         current_mode = user_modes[from_number]
         print("CURRENT MODE:", from_number, current_mode)
 
+        user_sent_time = datetime.now().isoformat()
+        start_time = time.time()
+
         if current_mode == "baseline":
             reply = ask_baseline_gpt(from_number, user_text)
         else:
             reply = ask_custom_gpt(from_number, user_text)
 
-        save_conversation(from_number, current_mode, user_text, reply)
+        response_time_seconds = round(time.time() - start_time, 3)
+        gpt_reply_time = datetime.now().isoformat()
+
+        save_conversation(
+            from_number,
+            current_mode,
+            user_text,
+            reply,
+            user_sent_time,
+            gpt_reply_time,
+            response_time_seconds
+        )
+
         send_whatsapp_text(from_number, reply)
 
         return {"status": "ok"}
