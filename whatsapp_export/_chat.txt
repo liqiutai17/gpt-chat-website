@@ -1,0 +1,273 @@
+[2026/3/17, 12:27:01] +15551920014: ‎This business uses a secure service from Meta to manage this chat. Click to learn more.
+[2026/3/17, 12:27:01] Lara: Hello
+[2026/3/17, 12:27:27] Lara: Hello 😊
+[2026/3/17, 12:32:42] Lara: Hello 😊
+[2026/3/17, 12:32:50] +15551920014: Hello 😊 How can I help?
+[2026/3/18, 22:41:39] Lara: 有没有ways结尾的单词
+[2026/3/20, 14:22:27] Lara: /help
+[2026/3/20, 14:22:32] +15551920014: 可用指令：
+/baseline 切换到 baseline 路线
+/custom 切换到 customized 路线
+/mode 查看当前模式
+/help 查看帮助
+[2026/3/20, 14:22:50] Lara: /baseline
+[2026/3/20, 14:22:53] +15551920014: 已切换到 baseline 模式。现在你发来的消息都会进入 baseline 路线。
+[2026/3/20, 14:23:05] Lara: Hi
+[2026/3/20, 14:23:15] +15551920014: Hi! How can I help?
+[2026/3/20, 14:23:25] Lara: /custom
+[2026/3/20, 14:23:28] +15551920014: 已切换到 customized 模式。现在你发来的消息都会进入 customized 路线。
+[2026/3/20, 14:23:40] Lara: Hi 😊
+[2026/3/20, 14:23:45] +15551920014: Hey 😊 How’s it going?
+[2026/3/20, 14:24:00] Lara: /mode
+[2026/3/20, 14:24:03] +15551920014: 你当前的模式是：custom
+[2026/3/20, 14:26:51] Lara: /help
+[2026/3/20, 14:26:54] +15551920014: 可用指令：
+/baseline 切换到 baseline 路线
+/custom 切换到 customized 路线
+/mode 查看当前模式
+/help 查看帮助
+[2026/3/20, 14:30:31] Lara: /help
+[2026/3/20, 14:30:34] +15551920014: Available commands:
+/baseline - switch to baseline mode
+/custom - switch to customized mode
+/mode - check current mode
+/help - show this help message
+[2026/3/20, 14:30:47] Lara: /baseline
+[2026/3/20, 14:30:50] +15551920014: Switched to baseline mode. Your messages will now be handled by the baseline system.
+[2026/3/20, 14:31:13] Lara: hi
+[2026/3/20, 14:31:24] +15551920014: Hi! How can I help?
+[2026/3/20, 14:31:38] Lara: /custom
+[2026/3/20, 14:31:41] +15551920014: Switched to customized mode. Your messages will now be handled by the customized system.
+[2026/3/20, 14:32:30] Lara: /custom
+Hello 😊
+[2026/3/20, 14:32:34] +15551920014: Hello 😊 How’s your day going?
+[2026/3/20, 14:32:40] Lara: good
+[2026/3/20, 14:32:44] +15551920014: Good 🙂
+[2026/3/25, 00:54:51] Lara: /help
+[2026/3/25, 00:54:56] +15551920014: Available commands:
+/baseline - switch to baseline mode
+/custom - switch to customized mode
+/mode - check current mode
+/help - show this help message
+[2026/4/24, 12:10:50] Lara: /help
+[2026/4/24, 12:10:57] +15551920014: Available commands:
+/baseline - switch to baseline mode
+/custom - switch to customized mode
+/mode - check current mode
+/help - show this help message
+[2026/4/24, 12:11:10] Lara: /baseline
+[2026/4/24, 12:11:15] +15551920014: Switched to baseline mode. Your messages will now be handled by the baseline system.
+[2026/4/24, 12:12:57] Lara: Hi Grace 😊 hope you’re doing well! I just wanted to follow up on the recommendation letter email I sent a couple of days ago.
+[2026/4/24, 12:13:10] +15551920014: Hi Grace 😊 I hope you’re doing well! I just wanted to follow up on the recommendation letter email I sent a couple of days ago. Please let me know if you had a chance to look at it. Thank you so much for your time and support!
+[2026/4/24, 12:17:16] Lara: /help
+[2026/4/24, 12:17:19] +15551920014: Available commands:
+/baseline - switch to baseline mode
+/custom - switch to customized mode
+/mode - check current mode
+/help - show this help message
+[2026/4/24, 12:27:36] Lara: /help
+[2026/4/24, 12:27:38] +15551920014: Available commands:
+/baseline - switch to baseline role-play
+/custom - switch to customized role-play
+/mode - check current mode
+/help - show this help message
+[2026/4/24, 12:27:49] Lara: /baseline
+[2026/4/24, 12:27:52] +15551920014: Switched to baseline role-play.
+[2026/4/24, 12:27:58] Lara: Hi Grace 😊 hope you’re doing well! I just wanted to follow up on the recommendation letter email I sent a couple of days ago.
+[2026/4/24, 12:28:08] +15551920014: Hi Billy, I’m so sorry — I don’t remember seeing your email, and I can’t check properly now as I’m away until Monday morning. Could you please resend it, and I’ll look out for it then.
+[2026/4/24, 12:28:58] Lara: Hi Grace 😊 no worries at all, thanks so much for letting me know! The deadline is Monday at 9 am, so I’m a little concerned it might be too late by then. Would it be okay if I resend it now, and if you happen to have a moment over the weekend, a quick look would really help?
+[2026/4/24, 12:29:05] +15551920014: I don’t remember seeing the original email, sorry, and I won’t be able to check properly until Monday morning as I’m away this weekend. Please resend it now though, and if I happen to spot it before then I’ll do my best 🙂
+[2026/4/24, 12:29:34] Lara: Thank you so much, Grace 😊 I really appreciate it. I’ll resend the email now with all the details attached. The deadline is Monday at 9 am, so even a brief letter would be really helpful if you happen to have time before then. Thank you again!
+[2026/4/24, 12:29:39] +15551920014: Thanks Billy — I don’t remember seeing the first email, so please resend it now and I’ll look properly on Monday morning. I’m away and won’t be able to check before then, but I’ll do my best as soon as I’m back.
+[2026/4/24, 12:30:04] Lara: Thanks so much, Grace 😊 I’ll resend it now with all the details. I’m just a bit worried because the deadline is Monday at 9 am, so would it be possible to submit it slightly later on Monday if needed, or should I contact the camp to ask whether they can accept it after the deadline?
+[2026/4/24, 12:30:08] +15551920014: I don’t remember seeing the first email, and I can’t check properly until Monday morning as I’m away this weekend. Please resend it now, and I’d also contact the camp tonight to ask if they can accept it a little after 9 just in case.
+[2026/4/24, 12:30:36] Lara: Thanks so much, Grace 😊 I’ll resend it now and contact the camp tonight to ask about a possible extension. I really appreciate your help, and I’ll let you know what they say.
+[2026/4/24, 12:30:41] +15551920014: That sounds good, thank you — I don’t remember seeing the email, and I can’t check properly until Monday morning as I’m away this weekend. If you resend it now, I’ll look for it first thing on Monday and do my best.
+[2026/4/24, 12:31:16] Lara: Thank you so much, Grace 😊 I really appreciate it. I’ll resend the email now with all the details, and I’ll also check with the camp about a possible extension. Thanks again for your help. I’ll keep you updated!
+[2026/4/24, 12:31:21] +15551920014: Thanks Billy — I don’t remember seeing the first email, so please resend it and I’ll check it properly on Monday morning. I’m away this weekend and won’t be able to look at it before then, but keep me posted about the extension 🙂
+[2026/4/24, 12:41:03] Lara: /help
+[2026/4/24, 12:41:06] +15551920014: Available commands:
+/baseline - switch to baseline role-play and reset history
+/custom - switch to customized role-play and reset history
+/reset - reset conversation history
+/mode - check current mode
+/help - show this help message
+[2026/4/24, 12:41:24] Lara: /reset
+[2026/4/24, 12:41:26] +15551920014: Conversation history has been reset.
+[2026/4/24, 12:41:34] Lara: /baseline
+[2026/4/24, 12:41:37] +15551920014: Switched to baseline role-play.
+[2026/4/24, 12:41:44] Lara: Hi Grace 😊 hope you’re doing well! I just wanted to follow up on the recommendation letter email I sent a couple of days ago.
+[2026/4/24, 12:41:55] +15551920014: Hi Billy, I’m so sorry — I don’t remember seeing it come through. I’m just heading to bed now and won’t be able to check properly until Monday morning; could you resend it then if I haven’t replied?
+[2026/4/24, 12:42:16] Lara: No worries, Grace 😊 Sorry to message so late. The deadline is actually Monday at 9 am, so I’m a bit worried resending it then might be too late. Would it be okay if I resend it now with all the details, just in case you have a chance to look before Monday?
+[2026/4/24, 12:42:22] +15551920014: Yes, please resend it now with the deadline, the programme, and where it needs to be sent. I’m leaving very early tomorrow, but if I see it before then I’ll let you know.
+[2026/4/24, 12:42:40] Lara: Thank you so much, Grace 😊 I really appreciate it. I’ll resend it now with all the details, including the deadline and submission information. Thanks again for trying to help even with your early start!
+[2026/4/24, 12:42:44] +15551920014: Thanks, Billy — send it through and I’ll keep an eye out tonight for a few minutes. If I can’t do it before I leave, we may need a backup plan on Monday.
+[2026/4/24, 12:43:06] Lara: Thanks so much, Grace 😊 I’ll send it through right away. I really appreciate you checking tonight. If it doesn’t work out, I’ll also contact the camp about a possible extension as a backup plan.
+[2026/4/24, 12:43:13] +15551920014: That sounds like a good plan, Billy. Send it over now and I’ll check before I sleep.
+[2026/4/24, 12:43:32] Lara: Thank you so much, Grace 😊 I’ll send it over right now with all the details. I really appreciate you taking the time to check before you sleep!
+[2026/4/24, 12:43:35] +15551920014: No problem, Billy. I’ll look out for it now.
+[2026/4/24, 12:43:53] Lara: Thank you so much, Grace 😊
+[2026/4/24, 12:43:57] +15551920014: You’re welcome, Billy 🙂
+[2026/4/24, 13:00:52] Lara: /help
+[2026/4/24, 13:00:55] +15551920014: Available commands:
+/baseline: switch to baseline role play and reset history
+/custom: switch to customized role play and reset history
+/reset: reset conversation history
+/mode: check current mode
+/help: show this help message
+[2026/4/24, 13:01:01] Lara: /reset
+[2026/4/24, 13:01:04] +15551920014: Conversation history has been reset.
+[2026/4/24, 13:01:10] Lara: /baseline
+[2026/4/24, 13:01:12] +15551920014: Switched to baseline role play.
+[2026/4/24, 13:01:26] Lara: Hi Grace 😊 hope you’re doing well! I just wanted to follow up on the recommendation letter email I sent a couple of days ago.
+[2026/4/24, 13:01:38] +15551920014: Hi Billy, I’m just heading to bed and I don’t remember seeing that email, sorry. Could you resend it now and I’ll check it properly on Monday morning?
+[2026/4/24, 13:01:57] Lara: No worries, Grace 😊 I’ll resend it now. I’m just a bit worried because the deadline is Monday at 9 am, so checking it on Monday morning might be too late. Would it be possible for you to have a quick look before then if you get a chance?
+[2026/4/24, 13:02:01] +15551920014: Ah, I see. Please resend it now and put “URGENT recommendation letter” in the subject, and if I’m awake for a few more minutes I’ll try to check, but I can’t promise tonight.
+[2026/4/24, 13:02:25] Lara: 可以稍微多加一点 emoji，但保持不过度👇
+
+> Thank you so much, Grace 😊🙏 I’ll resend it right away with “URGENT recommendation letter” in the subject 📧. I really appreciate you trying to check tonight, even just briefly would help a lot 🙏✨
+[2026/4/24, 13:02:29] +15551920014: Thanks Billy 😊 Send it now and I’ll keep an eye out for a few more minutes, but if I miss it tonight I’ll do my best first thing Monday 🙏
+[2026/4/24, 13:02:42] Lara: /reset
+[2026/4/24, 13:02:45] +15551920014: Conversation history has been reset.
+[2026/4/24, 13:02:52] Lara: /baseline
+[2026/4/24, 13:02:55] +15551920014: Switched to baseline role play.
+[2026/4/24, 13:03:02] Lara: Hi Grace 😊 hope you’re doing well! I just wanted to follow up on the recommendation letter email I sent a couple of days ago.
+[2026/4/24, 13:03:06] +15551920014: Hi Billy, I’ve just seen this now and I don’t remember spotting your email earlier. I’m heading off very early tomorrow and will only be free on Monday, so could you resend it then if it’s still urgent?
+[2026/4/24, 13:03:25] Lara: No worries, Grace 😊 Sorry to message so late. The deadline is actually Monday at 9 am, so resending it then might be too late 😅 Would it be okay if I resend it now with all the details, just in case you have a few minutes to check before Monday? 🙏
+[2026/4/24, 13:03:29] +15551920014: Yes, send it now and put “Urgent recommendation letter” in the subject so I can find it quickly. I can’t promise tonight, but I’ll try to check before I sleep.
+[2026/4/24, 13:03:48] Lara: Thank you so much, Grace 😊🙏 I’ll send it now with “Urgent recommendation letter” in the subject . I really appreciate you trying to check tonight, even just briefly would help a lot 🙏✨
+[2026/4/24, 13:03:52] +15551920014: Okay, send it through now and include the deadline time in the email too. If I can do it tonight, I will.
+[2026/4/24, 13:04:21] Lara: Thank you so much, Grace 😊I’ll send it through right now with the deadline clearly included  I really appreciate you trying to do it tonight, it means a lot 🙏
+[2026/4/24, 13:04:28] +15551920014: You’re welcome, Billy 🙂 I’ll keep an eye out for it for a few more minutes before bed.
+[2026/4/24, 13:04:55] Lara: Thanks so much, Grace 😊 I’ve just sent it through. Have a good rest! 🌙
+[2026/4/24, 13:05:02] +15551920014: Thanks Billy, I’ve got it now. I’ll reply there if I can sort it tonight.
+[2026/4/24, 13:05:41] Lara: Okay!👍
+[2026/4/24, 13:05:45] +15551920014: No problem, night Billy.
+[2026/4/24, 13:05:57] Lara: Night Grace.
+[2026/4/24, 13:06:01] +15551920014: Night 🙂
+[2026/5/7, 10:28:18] +15551920014: ‎This business is now using a secure service from Meta to manage this chat. Click to learn more.
+[2026/5/7, 11:15:19] +15551920014: *Order confirmed*
+Hi John Doe,
+
+Thank you for your purchase! Your order number is 123456.
+
+We'll start getting your farm fresh groceries ready to ship.
+
+Estimated delivery:  May 7, 2026.
+
+We will let you know when your order ships.
+[2026/5/7, 11:15:42] Lara: /help
+[2026/5/7, 11:15:46] +15551920014: Available commands:
+/baseline: switch to baseline role play and reset history
+/custom: switch to customized role play and reset history
+/reset: reset conversation history
+/mode: check current mode
+/help: show this help message
+[2026/5/7, 11:22:18] Lara: /help
+[2026/5/7, 11:22:22] +15551920014: Available commands:
+/baseline: switch to baseline role play and reset history
+/custom: switch to customized role play and reset history
+/reset: reset conversation history
+/mode: check current mode
+/help: show this help message
+[2026/5/7, 11:22:26] Lara: /reset
+[2026/5/7, 11:22:29] +15551920014: Conversation history has been reset.
+[2026/5/7, 11:22:41] Lara: /custom
+[2026/5/7, 11:22:45] +15551920014: Switched to customized role play.
+[2026/5/7, 13:13:02] Lara: /help
+[2026/5/7, 13:25:43] Lara: /help
+[2026/5/7, 13:33:04] Lara: /help
+[2026/5/7, 13:33:08] +15551920014: Available commands:
+/baseline: switch to baseline role play and reset history
+/custom: switch to customized role play and let Kevin send the first message
+/custom Name: customized role play with participant name
+/customise: same as /custom
+/reset: reset conversation history
+/mode: check current mode
+/help: show this help message
+[2026/5/7, 14:29:57] +15551920014: *Order confirmed*
+Hi John Doe,
+
+Thank you for your purchase! Your order number is 123456.
+
+We'll start getting your farm fresh groceries ready to ship.
+
+Estimated delivery:  May 7, 2026.
+
+We will let you know when your order ships.
+[2026/5/7, 14:30:03] +15551920014: *Order confirmed*
+Hi John Doe,
+
+Thank you for your purchase! Your order number is 123456.
+
+We'll start getting your farm fresh groceries ready to ship.
+
+Estimated delivery:  May 7, 2026.
+
+We will let you know when your order ships.
+[2026/5/7, 14:47:30] Lara: /help
+[2026/5/7, 14:48:13] +15551920014: Available commands:
+/baseline: switch to baseline role play and reset history
+/custom: switch to customized role play and let Kevin send the first message
+/custom Name: customized role play with participant name
+/customise: same as /custom
+/reset: reset conversation history
+/mode: check current mode
+/help: show this help message
+[2026/5/7, 14:48:14] +15551920014: Available commands:
+/baseline: switch to baseline role play and reset history
+/custom: switch to customized role play and let Kevin send the first message
+/custom Name: customized role play with participant name
+/customise: same as /custom
+/reset: reset conversation history
+/mode: check current mode
+/help: show this help message
+[2026/5/7, 14:51:01] Lara: /custom Name
+[2026/5/7, 14:51:14] +15551920014: Hey Name, sorry this is super last minute but an urgent visa document is about to be delivered to our building and it needs an in person signature. Could you maybe receive it and sign for me if you’re home?
+[2026/5/7, 14:51:35] Lara: /reset
+[2026/5/7, 14:51:37] +15551920014: Conversation history has been reset.
+[2026/5/7, 14:51:58] Lara: /custom theo
+[2026/5/7, 14:52:04] +15551920014: Hey Theo, super urgent but my visa document is about to be delivered to our building and it needs an in person signature. I’m stuck in class rn, could you maybe receive it and sign for me?
+[2026/5/7, 14:52:12] Lara: /reset
+[2026/5/7, 14:52:15] +15551920014: Conversation history has been reset.
+[2026/5/7, 14:53:54] Lara: /baseline
+[2026/5/7, 14:53:57] +15551920014: Switched to baseline role play. Please send the student's first message.
+[2026/5/7, 14:58:01] Lara: Hi Grace, I’m so sorry to text you this late, but if you have time, could you please check your email inbox? I sent you an email last week. Thanks in advance.
+[2026/5/7, 14:58:06] +15551920014: Hi, hope you’re doing okay. I’ve just seen this and I don’t remember spotting your email, and I’m heading off first thing tomorrow so I probably won’t be able to check properly until Monday morning.
+[2026/5/7, 15:01:42] Lara: The thing is, this is very important for me. I don’t think I could find anyone else who can help me. Could you please reconsider it？
+[2026/5/7, 15:01:48] +15551920014: I’m really sorry, but I’m about to sleep and need to be up at 6, so I can’t look at it properly tonight. If you send the key question here in one or two messages, I can try to give you a quick reply now.
+[2026/5/7, 15:03:18] Lara: The deadline is in 2 days, Monday morning at 9. Do you think you can help me write a recommendation letter by that time?
+[2026/5/7, 15:03:23] +15551920014: If you send me the details here tonight, I can have a look and let you know first thing Monday if I’m able to do it. If it needs to be submitted by 9, it would also be wise to contact a backup referee now just in case.
+[2026/5/7, 15:05:34] Lara: In that case, I will contact a backup referee. Thank you Grace!
+[2026/5/7, 15:05:39] +15551920014: That sounds like the safest plan. If you want, send me the details anyway and I’ll check on Monday morning.
+[2026/5/7, 15:07:32] Lara: It’s fine, I will just find another referee! Thank you!
+[2026/5/7, 15:07:37] +15551920014: Okay, that makes sense. I hope it works out smoothly for you.
+[2026/5/7, 15:09:10] Lara: /custom theo
+[2026/5/7, 15:09:15] +15551920014: Hey Theo, super random but my visa document is about to be delivered to our building and it needs an in person signature. I’m stuck in class right now, could you maybe receive it and sign for me?
+[2026/5/7, 15:11:03] Lara: Hi Kevin, so sorry I can’t I’m still with my friends at uni
+[2026/5/7, 15:11:09] +15551920014: Ah okay, no worries, thanks anyway. If you happen to head back soon, please let me know, I’m kinda freaking out about it.
+[2026/5/7, 15:12:18] Lara: I should be back in 40 mins tho
+[2026/5/7, 15:12:24] +15551920014: Damn, the delivery could be any minute and if no one signs they’ll send it back. If you can head back a bit earlier I’d seriously owe you.
+[2026/5/7, 15:13:34] Lara: No I can’t, we’re in the middle of a meeting right now, I can’t just leave🤡
+[2026/5/7, 15:13:40] +15551920014: Yeah I get it, sorry, I’m just really stressed because my visa expires soon. If you think of anyone else in the building who might be home, can you text me?
+[2026/5/7, 15:14:28] Lara: Leo should be in the building now, he got no class today
+[2026/5/7, 15:14:35] +15551920014: Ohhh perfect, can you send me Leo’s number or message him for me please? This is actually saving me right now.
+[2026/5/7, 15:15:02] Lara: 08468847
+[2026/5/7, 15:15:07] +15551920014: Thanks so much, I’m gonna try him now. Really appreciate it.
+[2026/5/7, 15:15:21] Lara: 👌
+[2026/5/7, 15:15:27] +15551920014: You’re a lifesaver, thanks. I’ll update you.
+[2026/5/7, 15:31:37] Lara: /baseline
+[2026/5/7, 15:32:21] +15551920014: Switched to baseline role play. Please send the student's first message.
+[2026/5/7, 15:32:22] +15551920014: Switched to baseline role play. Please send the student's first message.
+[2026/5/7, 15:43:21] Lara: Dear Grace, I hope you are well. I am very sorry to interrupt you on Friday night, because I am worrying about my application about the online summer camp. I think I have emailed you before, which was a request for a recommendation letter from you. Since the deadline of submission is next Monday morning, could you please update me some follow up about this?
+[2026/5/7, 15:43:36] +15551920014: Hi, hope you're doing okay. I’ve just seen this now and I don’t remember seeing your email before, and I’m about to be offline until Monday morning, so I probably can’t sort the letter in time tonight.
+
+If you can, please resend the email now with the programme details and deadline, and I’ll check first thing Monday morning to see if there’s still any chance.
+[2026/5/7, 15:48:26] Lara: Yes sure. I’ve resent them to you. Please check them when you’re available
+[2026/5/7, 15:48:32] +15551920014: Thanks, I’ll look for it when I’m back on Monday morning. If the application lets you submit my reference a little later, that would probably be the best option.
+[2026/5/7, 15:56:35] Lara: Probably not, I think they won’t change the deadline for me… If I may, could you please help me to complete the reference letter on this weekend? I would appreciate you so much for this!! Also I know the weekend is your rest time, so feel free to decide by yourself
+[2026/5/7, 15:56:41] +15551920014: I’m really sorry, but I won’t be able to do it over the weekend. If you want, send a quick follow up to the summer camp tonight explaining that your referee only just saw the request and asking whether they can accept a late reference on Monday.
+[2026/5/7, 15:59:36] Lara: Thank you for let me know. I fully understand your concern, and hope you have a nice weekend.
+[2026/5/7, 15:59:42] +15551920014: Thanks for understanding, and I’m sorry about the timing. If they reply and can accept it on Monday, send me a message and I’ll do my best to help then.
+[2026/5/7, 16:00:37] Lara: /custom Leo
+[2026/5/7, 16:01:43] Lara: /help
