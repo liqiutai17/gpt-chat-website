@@ -110,7 +110,7 @@ LINE_CONFIGS = {
 # You can change these in Render Environment Variables if needed.
 AI_REPLY_DELAY_SECONDS = float(os.getenv("AI_REPLY_DELAY_SECONDS", "2"))
 AI_MULTI_POST_DELAY_SECONDS = float(os.getenv("AI_MULTI_POST_DELAY_SECONDS", "1.2"))
-AI_FOLLOW_UP_SECONDS = int(os.getenv("AI_FOLLOW_UP_SECONDS", "10"))
+AI_FOLLOW_UP_SECONDS = int(os.getenv("AI_FOLLOW_UP_SECONDS", "180"))
 
 # Used for the 10-second no-response follow-up on WhatsApp.
 activity_counters = {}
@@ -190,7 +190,7 @@ Use 1 to 2 short sentences for each post.
 If the response has more than one meaningful idea, split it into multiple smaller WhatsApp-style posts.
 When using multiple posts, put each post on a separate line.
 No need to always wait for the participant's response before contributing.
-If you are asked to follow up because the participant has not replied for about 10 seconds, send one brief and natural follow-up message.
+If you are asked to follow up because the participant has not replied for about 3 minutes, send one brief and natural follow-up message.
 Wait a few seconds before responding is handled by the system, so do not mention waiting or typing time.
 Try to negotiate and help elicit more conversation, but do not turn it into an endless interaction.
 Do not over-explain.
@@ -216,7 +216,7 @@ Use 1 to 2 short sentences for each post.
 If the response has more than one meaningful idea, split it into multiple smaller WhatsApp-style posts.
 When using multiple posts, put each post on a separate line.
 No need to always wait for the participant's response before contributing.
-If you are asked to follow up because the participant has not replied for about 10 seconds, send one brief and natural follow-up message.
+If you are asked to follow up because the participant has not replied for about 3 minutes, send one brief and natural follow-up message.
 Use emojis as humans do in text chat when possible and appropriate, but do not overdo it.
 Consider the relationship, the context, and the role-play situation before using emojis.
 Wait a few seconds before responding is handled by the system, so do not mention waiting or typing time.
@@ -668,7 +668,7 @@ def ask_follow_up_gpt(participant_id: str, session: dict) -> str:
     user_histories[history_key].append({
         "role": "user",
         "content": (
-            "The participant has not replied for about 10 seconds. "
+            "The participant has not replied for about 3 minutes. "
             "Send one brief natural follow-up message only if it is appropriate. "
             "Do not introduce a new topic. Do not make the conversation endless."
         )
@@ -1083,4 +1083,3 @@ async def receive_webhook(request: Request):
     except Exception as e:
         print("ERROR:", e)
         return {"error": str(e)}
-
