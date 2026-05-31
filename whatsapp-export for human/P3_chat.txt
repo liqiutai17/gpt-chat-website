@@ -1,0 +1,47 @@
+[2026/5/25 15:14:47] ‪+1 (555) 192‑0014‬: ‎此商家使用 Meta 提供的安全服务来管理此聊天。轻触了解更多。
+[2026/5/25 15:14:47] ‪+1 (555) 192‑0014‬:
+[2026/5/25 15:14:46] ‪+1 (555) 192‑0014‬: *Hello World*
+Welcome and congratulations!! This message demonstrates your ability to send a WhatsApp message notification from the Cloud API, hosted by Meta. Thank you for taking the time to test with us.
+[2026/5/25 15:16:57] Lynn: /help
+[2026/5/25 15:16:59] ‪+1 (555) 192‑0014‬: Hi! Before we start, please send your name and task code in this format:
+Name B Task1
+Name B Task2
+Name C Task1
+Name C Task2
+
+For example: Lara B Task1
+[2026/5/25 15:17:11] Lynn: Lynn B Task1
+[2026/5/25 15:17:15] ‪+1 (555) 192‑0014‬: Thanks Lynn. You are now in B Task1. Please start the role play by sending the student's first message.
+[2026/5/25 15:23:54] Lynn: Hi, Grace,
+How’s everything going? I’ wondering about my recommendation letter. Since the deadline is next Monday at 9:00am, I’m worried that I can’t catch up with it. If you have already completed the letter, could you please let me know?
+[2026/5/25 15:24:09] ‪+1 (555) 192‑0014‬: Hi Lynn, hope you’re doing okay.
+[2026/5/25 15:24:11] ‪+1 (555) 192‑0014‬: I don’t remember seeing any email from you about the recommendation letter, so I’m a bit worried there may have been a mix-up.
+[2026/5/25 15:24:14] ‪+1 (555) 192‑0014‬: I’m heading out very early tomorrow and I’m not sure I’ll be available before Monday morning.
+[2026/5/25 15:24:16] ‪+1 (555) 192‑0014‬: Could you resend the email now with the program name, deadline details, and the submission link?
+[2026/5/25 15:24:18] ‪+1 (555) 192‑0014‬: If it needs to be uploaded by 9:00am Monday, I’ll try to check first thing then and see what I can do.
+[2026/5/25 15:27:24] ‪+1 (555) 192‑0014‬: Just checking in, Lynn.
+[2026/5/25 15:27:26] ‪+1 (555) 192‑0014‬: If you can resend the details tonight, that gives me the best chance of sorting it out.
+[2026/5/25 15:29:02] Lynn: Okay. I’ve resent you an email. The program is an online summer camp, and the deadline is next Monday at 9:00 am. I would appreciate it if you could just send me the letter and I can upload it on my own so there’s no need to bother you. Thank you !
+[2026/5/25 15:29:11] ‪+1 (555) 192‑0014‬: Thanks, Lynn.
+[2026/5/25 15:29:14] ‪+1 (555) 192‑0014‬: I’ll look for it when I can, but I can’t promise I’ll get to it before Monday morning.
+[2026/5/25 15:29:16] ‪+1 (555) 192‑0014‬: If the application accepts a student-uploaded letter, that’s probably the safest option here.
+[2026/5/25 15:30:56] Lynn: Thank you for your understanding. Perhaps I’ll reach to another tutor if time is so limited for you.
+[2026/5/25 15:31:04] ‪+1 (555) 192‑0014‬: That may be the best backup, yes.
+[2026/5/25 15:31:06] ‪+1 (555) 192‑0014‬: I’m sorry about the timing, Lynn, and if I do get a chance to check your email before Monday I’ll let you know.
+[2026/5/25 15:31:49] Lynn: Okay, thanks again for your help!
+[2026/5/25 15:31:57] ‪+1 (555) 192‑0014‬: You’re welcome, Lynn.
+[2026/5/25 15:31:59] ‪+1 (555) 192‑0014‬: I hope it works out smoothly with the application.
+[2026/5/25 15:32:16] Lynn: Lynn B Task2
+[2026/5/25 15:32:23] ‪+1 (555) 192‑0014‬: Hey Lynn, sorry this is urgent, but an important visa document is about to be delivered to our building and it needs an in-person signature. I’m stuck in class right now, could you possibly receive it and sign for it for me?
+[2026/5/25 15:34:33] Lynn: Hi, Kevin. When will it arrive? I can check if I am available.
+[2026/5/25 15:34:41] ‪+1 (555) 192‑0014‬: The notification said very soon, probably within the next 10 to 20 minutes.
+[2026/5/25 15:34:44] ‪+1 (555) 192‑0014‬: I have a group presentation starting in like 10 minutes, so I really can’t leave and I’m kind of panicking.
+[2026/5/25 15:37:49] ‪+1 (555) 192‑0014‬: Hey, were you able to check if you’ll be around? It’s really important because if no one signs, they’ll send it back.
+[2026/5/25 15:38:10] Lynn: I’m so sorry. I’m currently in an important group meeting that will probably last for 30 minutes. Do you have other friends in the same building? Or can you reach to the courier to delay the post?
+[2026/5/25 15:38:17] ‪+1 (555) 192‑0014‬: Ah okay, no worries, thanks anyway.
+[2026/5/25 15:38:19] ‪+1 (555) 192‑0014‬: I’ll try messaging a couple other people in the building and see if I can contact the courier now.
+[2026/5/25 15:39:15] Lynn: I’m sorry that I’m not able to help. If they can send it later, feel free to contact me and I can sign it for you.
+[2026/5/25 15:39:22] ‪+1 (555) 192‑0014‬: Thanks, I really appreciate that.
+[2026/5/25 15:39:25] ‪+1 (555) 192‑0014‬: If I can get them to redeliver later, I’ll message you right away.
+[2026/5/25 15:40:14] Lynn: Ok, see you later~
+[2026/5/25 15:40:21] ‪+1 (555) 192‑0014‬: See you later, and thanks again.

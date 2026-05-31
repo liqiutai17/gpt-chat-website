@@ -1,0 +1,719 @@
+[2026/3/17, 12:27:02] +15551920014: ‎This business uses a secure service from Meta to manage this chat. Tap to learn more.
+[2026/3/17, 12:27:02] Lara: Hello
+[2026/3/17, 12:27:27] Lara: Hello 😊
+[2026/3/17, 12:32:43] Lara: Hello 😊
+[2026/3/17, 12:32:50] +15551920014: Hello 😊 How can I help?
+[2026/3/18, 22:41:39] Lara: 有没有ways结尾的单词
+[2026/3/20, 14:22:27] Lara: /help
+[2026/3/20, 14:22:32] +15551920014: 可用指令：
+/baseline 切换到 baseline 路线
+/custom 切换到 customized 路线
+/mode 查看当前模式
+/help 查看帮助
+[2026/3/20, 14:22:51] Lara: /baseline
+[2026/3/20, 14:22:53] +15551920014: 已切换到 baseline 模式。现在你发来的消息都会进入 baseline 路线。
+[2026/3/20, 14:23:06] Lara: Hi
+[2026/3/20, 14:23:15] +15551920014: Hi! How can I help?
+[2026/3/20, 14:23:26] Lara: /custom
+[2026/3/20, 14:23:28] +15551920014: 已切换到 customized 模式。现在你发来的消息都会进入 customized 路线。
+[2026/3/20, 14:23:40] Lara: Hi 😊
+[2026/3/20, 14:23:45] +15551920014: Hey 😊 How’s it going?
+[2026/3/20, 14:24:00] Lara: /mode
+[2026/3/20, 14:24:03] +15551920014: 你当前的模式是：custom
+[2026/3/20, 14:26:52] Lara: /help
+[2026/3/20, 14:26:54] +15551920014: 可用指令：
+/baseline 切换到 baseline 路线
+/custom 切换到 customized 路线
+/mode 查看当前模式
+/help 查看帮助
+[2026/3/20, 14:30:31] Lara: /help
+[2026/3/20, 14:30:34] +15551920014: Available commands:
+/baseline - switch to baseline mode
+/custom - switch to customized mode
+/mode - check current mode
+/help - show this help message
+[2026/3/20, 14:30:48] Lara: /baseline
+[2026/3/20, 14:30:50] +15551920014: Switched to baseline mode. Your messages will now be handled by the baseline system.
+[2026/3/20, 14:31:14] Lara: hi
+[2026/3/20, 14:31:24] +15551920014: Hi! How can I help?
+[2026/3/20, 14:31:38] Lara: /custom
+[2026/3/20, 14:31:41] +15551920014: Switched to customized mode. Your messages will now be handled by the customized system.
+[2026/3/20, 14:32:30] Lara: /custom
+Hello 😊
+[2026/3/20, 14:32:34] +15551920014: Hello 😊 How’s your day going?
+[2026/3/20, 14:32:40] Lara: good
+[2026/3/20, 14:32:44] +15551920014: Good 🙂
+[2026/3/25, 00:54:52] Lara: /help
+[2026/3/25, 00:54:56] +15551920014: Available commands:
+/baseline - switch to baseline mode
+/custom - switch to customized mode
+/mode - check current mode
+/help - show this help message
+[2026/4/24, 12:10:50] Lara: /help
+[2026/4/24, 12:10:57] +15551920014: Available commands:
+/baseline - switch to baseline mode
+/custom - switch to customized mode
+/mode - check current mode
+/help - show this help message
+[2026/4/24, 12:11:10] Lara: /baseline
+[2026/4/24, 12:11:15] +15551920014: Switched to baseline mode. Your messages will now be handled by the baseline system.
+[2026/4/24, 12:12:57] Lara: Hi Grace 😊 hope you’re doing well! I just wanted to follow up on the recommendation letter email I sent a couple of days ago.
+[2026/4/24, 12:13:10] +15551920014: Hi Grace 😊 I hope you’re doing well! I just wanted to follow up on the recommendation letter email I sent a couple of days ago. Please let me know if you had a chance to look at it. Thank you so much for your time and support!
+[2026/4/24, 12:17:15] Lara: /help
+[2026/4/24, 12:17:19] +15551920014: Available commands:
+/baseline - switch to baseline mode
+/custom - switch to customized mode
+/mode - check current mode
+/help - show this help message
+[2026/4/24, 12:27:35] Lara: /help
+[2026/4/24, 12:27:38] +15551920014: Available commands:
+/baseline - switch to baseline role-play
+/custom - switch to customized role-play
+/mode - check current mode
+/help - show this help message
+[2026/4/24, 12:27:48] Lara: /baseline
+[2026/4/24, 12:27:52] +15551920014: Switched to baseline role-play.
+[2026/4/24, 12:27:58] Lara: Hi Grace 😊 hope you’re doing well! I just wanted to follow up on the recommendation letter email I sent a couple of days ago.
+[2026/4/24, 12:28:08] +15551920014: Hi Billy, I’m so sorry — I don’t remember seeing your email, and I can’t check properly now as I’m away until Monday morning. Could you please resend it, and I’ll look out for it then.
+[2026/4/24, 12:28:58] Lara: Hi Grace 😊 no worries at all, thanks so much for letting me know! The deadline is Monday at 9 am, so I’m a little concerned it might be too late by then. Would it be okay if I resend it now, and if you happen to have a moment over the weekend, a quick look would really help?
+[2026/4/24, 12:29:05] +15551920014: I don’t remember seeing the original email, sorry, and I won’t be able to check properly until Monday morning as I’m away this weekend. Please resend it now though, and if I happen to spot it before then I’ll do my best 🙂
+[2026/4/24, 12:29:34] Lara: Thank you so much, Grace 😊 I really appreciate it. I’ll resend the email now with all the details attached. The deadline is Monday at 9 am, so even a brief letter would be really helpful if you happen to have time before then. Thank you again!
+[2026/4/24, 12:29:39] +15551920014: Thanks Billy — I don’t remember seeing the first email, so please resend it now and I’ll look properly on Monday morning. I’m away and won’t be able to check before then, but I’ll do my best as soon as I’m back.
+[2026/4/24, 12:30:04] Lara: Thanks so much, Grace 😊 I’ll resend it now with all the details. I’m just a bit worried because the deadline is Monday at 9 am, so would it be possible to submit it slightly later on Monday if needed, or should I contact the camp to ask whether they can accept it after the deadline?
+[2026/4/24, 12:30:08] +15551920014: I don’t remember seeing the first email, and I can’t check properly until Monday morning as I’m away this weekend. Please resend it now, and I’d also contact the camp tonight to ask if they can accept it a little after 9 just in case.
+[2026/4/24, 12:30:35] Lara: Thanks so much, Grace 😊 I’ll resend it now and contact the camp tonight to ask about a possible extension. I really appreciate your help, and I’ll let you know what they say.
+[2026/4/24, 12:30:41] +15551920014: That sounds good, thank you — I don’t remember seeing the email, and I can’t check properly until Monday morning as I’m away this weekend. If you resend it now, I’ll look for it first thing on Monday and do my best.
+[2026/4/24, 12:31:15] Lara: Thank you so much, Grace 😊 I really appreciate it. I’ll resend the email now with all the details, and I’ll also check with the camp about a possible extension. Thanks again for your help. I’ll keep you updated!
+[2026/4/24, 12:31:21] +15551920014: Thanks Billy — I don’t remember seeing the first email, so please resend it and I’ll check it properly on Monday morning. I’m away this weekend and won’t be able to look at it before then, but keep me posted about the extension 🙂
+[2026/4/24, 12:41:02] Lara: /help
+[2026/4/24, 12:41:06] +15551920014: Available commands:
+/baseline - switch to baseline role-play and reset history
+/custom - switch to customized role-play and reset history
+/reset - reset conversation history
+/mode - check current mode
+/help - show this help message
+[2026/4/24, 12:41:23] Lara: /reset
+[2026/4/24, 12:41:26] +15551920014: Conversation history has been reset.
+[2026/4/24, 12:41:33] Lara: /baseline
+[2026/4/24, 12:41:37] +15551920014: Switched to baseline role-play.
+[2026/4/24, 12:41:44] Lara: Hi Grace 😊 hope you’re doing well! I just wanted to follow up on the recommendation letter email I sent a couple of days ago.
+[2026/4/24, 12:41:55] +15551920014: Hi Billy, I’m so sorry — I don’t remember seeing it come through. I’m just heading to bed now and won’t be able to check properly until Monday morning; could you resend it then if I haven’t replied?
+[2026/4/24, 12:42:16] Lara: No worries, Grace 😊 Sorry to message so late. The deadline is actually Monday at 9 am, so I’m a bit worried resending it then might be too late. Would it be okay if I resend it now with all the details, just in case you have a chance to look before Monday?
+[2026/4/24, 12:42:22] +15551920014: Yes, please resend it now with the deadline, the programme, and where it needs to be sent. I’m leaving very early tomorrow, but if I see it before then I’ll let you know.
+[2026/4/24, 12:42:40] Lara: Thank you so much, Grace 😊 I really appreciate it. I’ll resend it now with all the details, including the deadline and submission information. Thanks again for trying to help even with your early start!
+[2026/4/24, 12:42:44] +15551920014: Thanks, Billy — send it through and I’ll keep an eye out tonight for a few minutes. If I can’t do it before I leave, we may need a backup plan on Monday.
+[2026/4/24, 12:43:06] Lara: Thanks so much, Grace 😊 I’ll send it through right away. I really appreciate you checking tonight. If it doesn’t work out, I’ll also contact the camp about a possible extension as a backup plan.
+[2026/4/24, 12:43:13] +15551920014: That sounds like a good plan, Billy. Send it over now and I’ll check before I sleep.
+[2026/4/24, 12:43:31] Lara: Thank you so much, Grace 😊 I’ll send it over right now with all the details. I really appreciate you taking the time to check before you sleep!
+[2026/4/24, 12:43:35] +15551920014: No problem, Billy. I’ll look out for it now.
+[2026/4/24, 12:43:52] Lara: Thank you so much, Grace 😊
+[2026/4/24, 12:43:57] +15551920014: You’re welcome, Billy 🙂
+[2026/4/24, 13:00:52] Lara: /help
+[2026/4/24, 13:00:55] +15551920014: Available commands:
+/baseline: switch to baseline role play and reset history
+/custom: switch to customized role play and reset history
+/reset: reset conversation history
+/mode: check current mode
+/help: show this help message
+[2026/4/24, 13:01:01] Lara: /reset
+[2026/4/24, 13:01:04] +15551920014: Conversation history has been reset.
+[2026/4/24, 13:01:10] Lara: /baseline
+[2026/4/24, 13:01:12] +15551920014: Switched to baseline role play.
+[2026/4/24, 13:01:26] Lara: Hi Grace 😊 hope you’re doing well! I just wanted to follow up on the recommendation letter email I sent a couple of days ago.
+[2026/4/24, 13:01:38] +15551920014: Hi Billy, I’m just heading to bed and I don’t remember seeing that email, sorry. Could you resend it now and I’ll check it properly on Monday morning?
+[2026/4/24, 13:01:57] Lara: No worries, Grace 😊 I’ll resend it now. I’m just a bit worried because the deadline is Monday at 9 am, so checking it on Monday morning might be too late. Would it be possible for you to have a quick look before then if you get a chance?
+[2026/4/24, 13:02:01] +15551920014: Ah, I see. Please resend it now and put “URGENT recommendation letter” in the subject, and if I’m awake for a few more minutes I’ll try to check, but I can’t promise tonight.
+[2026/4/24, 13:02:24] Lara: 可以稍微多加一点 emoji，但保持不过度👇
+
+> Thank you so much, Grace 😊🙏 I’ll resend it right away with “URGENT recommendation letter” in the subject 📧. I really appreciate you trying to check tonight, even just briefly would help a lot 🙏✨
+[2026/4/24, 13:02:29] +15551920014: Thanks Billy 😊 Send it now and I’ll keep an eye out for a few more minutes, but if I miss it tonight I’ll do my best first thing Monday 🙏
+[2026/4/24, 13:02:41] Lara: /reset
+[2026/4/24, 13:02:45] +15551920014: Conversation history has been reset.
+[2026/4/24, 13:02:52] Lara: /baseline
+[2026/4/24, 13:02:55] +15551920014: Switched to baseline role play.
+[2026/4/24, 13:03:01] Lara: Hi Grace 😊 hope you’re doing well! I just wanted to follow up on the recommendation letter email I sent a couple of days ago.
+[2026/4/24, 13:03:06] +15551920014: Hi Billy, I’ve just seen this now and I don’t remember spotting your email earlier. I’m heading off very early tomorrow and will only be free on Monday, so could you resend it then if it’s still urgent?
+[2026/4/24, 13:03:25] Lara: No worries, Grace 😊 Sorry to message so late. The deadline is actually Monday at 9 am, so resending it then might be too late 😅 Would it be okay if I resend it now with all the details, just in case you have a few minutes to check before Monday? 🙏
+[2026/4/24, 13:03:29] +15551920014: Yes, send it now and put “Urgent recommendation letter” in the subject so I can find it quickly. I can’t promise tonight, but I’ll try to check before I sleep.
+[2026/4/24, 13:03:47] Lara: Thank you so much, Grace 😊🙏 I’ll send it now with “Urgent recommendation letter” in the subject . I really appreciate you trying to check tonight, even just briefly would help a lot 🙏✨
+[2026/4/24, 13:03:52] +15551920014: Okay, send it through now and include the deadline time in the email too. If I can do it tonight, I will.
+[2026/4/24, 13:04:21] Lara: Thank you so much, Grace 😊I’ll send it through right now with the deadline clearly included  I really appreciate you trying to do it tonight, it means a lot 🙏
+[2026/4/24, 13:04:28] +15551920014: You’re welcome, Billy 🙂 I’ll keep an eye out for it for a few more minutes before bed.
+[2026/4/24, 13:04:55] Lara: Thanks so much, Grace 😊 I’ve just sent it through. Have a good rest! 🌙
+[2026/4/24, 13:05:02] +15551920014: Thanks Billy, I’ve got it now. I’ll reply there if I can sort it tonight.
+[2026/4/24, 13:05:40] Lara: Okay!👍
+[2026/4/24, 13:05:45] +15551920014: No problem, night Billy.
+[2026/4/24, 13:05:56] Lara: Night Grace.
+[2026/4/24, 13:06:01] +15551920014: Night 🙂
+[2026/5/7, 11:15:19] +15551920014: *Order confirmed*
+Hi John Doe,
+
+Thank you for your purchase! Your order number is 123456.
+
+We'll start getting your farm fresh groceries ready to ship.
+
+Estimated delivery:  May 7, 2026.
+
+We will let you know when your order ships.
+[2026/5/7, 11:15:43] Lara: /help
+[2026/5/7, 11:15:46] +15551920014: Available commands:
+/baseline: switch to baseline role play and reset history
+/custom: switch to customized role play and reset history
+/reset: reset conversation history
+/mode: check current mode
+/help: show this help message
+[2026/5/7, 11:22:19] Lara: /help
+[2026/5/7, 11:22:22] +15551920014: Available commands:
+/baseline: switch to baseline role play and reset history
+/custom: switch to customized role play and reset history
+/reset: reset conversation history
+/mode: check current mode
+/help: show this help message
+[2026/5/7, 11:22:27] Lara: /reset
+[2026/5/7, 11:22:29] +15551920014: Conversation history has been reset.
+[2026/5/7, 11:22:42] Lara: /custom
+[2026/5/7, 11:22:45] +15551920014: Switched to customized role play.
+[2026/5/7, 13:13:03] Lara: /help
+[2026/5/7, 13:25:44] Lara: /help
+[2026/5/7, 13:33:05] Lara: /help
+[2026/5/7, 13:33:08] +15551920014: Available commands:
+/baseline: switch to baseline role play and reset history
+/custom: switch to customized role play and let Kevin send the first message
+/custom Name: customized role play with participant name
+/customise: same as /custom
+/reset: reset conversation history
+/mode: check current mode
+/help: show this help message
+[2026/5/7, 14:29:57] +15551920014: *Order confirmed*
+Hi John Doe,
+
+Thank you for your purchase! Your order number is 123456.
+
+We'll start getting your farm fresh groceries ready to ship.
+
+Estimated delivery:  May 7, 2026.
+
+We will let you know when your order ships.
+[2026/5/7, 14:30:03] +15551920014: *Order confirmed*
+Hi John Doe,
+
+Thank you for your purchase! Your order number is 123456.
+
+We'll start getting your farm fresh groceries ready to ship.
+
+Estimated delivery:  May 7, 2026.
+
+We will let you know when your order ships.
+[2026/5/7, 14:47:30] Lara: /help
+[2026/5/7, 14:48:13] +15551920014: Available commands:
+/baseline: switch to baseline role play and reset history
+/custom: switch to customized role play and let Kevin send the first message
+/custom Name: customized role play with participant name
+/customise: same as /custom
+/reset: reset conversation history
+/mode: check current mode
+/help: show this help message
+[2026/5/7, 14:48:14] +15551920014: Available commands:
+/baseline: switch to baseline role play and reset history
+/custom: switch to customized role play and let Kevin send the first message
+/custom Name: customized role play with participant name
+/customise: same as /custom
+/reset: reset conversation history
+/mode: check current mode
+/help: show this help message
+[2026/5/7, 14:51:01] Lara: /custom Name
+[2026/5/7, 14:51:14] +15551920014: Hey Name, sorry this is super last minute but an urgent visa document is about to be delivered to our building and it needs an in person signature. Could you maybe receive it and sign for me if you’re home?
+[2026/5/7, 14:51:35] Lara: /reset
+[2026/5/7, 14:51:37] +15551920014: Conversation history has been reset.
+[2026/5/7, 14:51:58] Lara: /custom theo
+[2026/5/7, 14:52:04] +15551920014: Hey Theo, super urgent but my visa document is about to be delivered to our building and it needs an in person signature. I’m stuck in class rn, could you maybe receive it and sign for me?
+[2026/5/7, 14:52:12] Lara: /reset
+[2026/5/7, 14:52:15] +15551920014: Conversation history has been reset.
+[2026/5/7, 14:53:54] Lara: /baseline
+[2026/5/7, 14:53:57] +15551920014: Switched to baseline role play. Please send the student's first message.
+[2026/5/7, 14:58:01] Lara: Hi Grace, I’m so sorry to text you this late, but if you have time, could you please check your email inbox? I sent you an email last week. Thanks in advance.
+[2026/5/7, 14:58:06] +15551920014: Hi, hope you’re doing okay. I’ve just seen this and I don’t remember spotting your email, and I’m heading off first thing tomorrow so I probably won’t be able to check properly until Monday morning.
+[2026/5/7, 15:01:42] Lara: The thing is, this is very important for me. I don’t think I could find anyone else who can help me. Could you please reconsider it？
+[2026/5/7, 15:01:48] +15551920014: I’m really sorry, but I’m about to sleep and need to be up at 6, so I can’t look at it properly tonight. If you send the key question here in one or two messages, I can try to give you a quick reply now.
+[2026/5/7, 15:03:18] Lara: The deadline is in 2 days, Monday morning at 9. Do you think you can help me write a recommendation letter by that time?
+[2026/5/7, 15:03:23] +15551920014: If you send me the details here tonight, I can have a look and let you know first thing Monday if I’m able to do it. If it needs to be submitted by 9, it would also be wise to contact a backup referee now just in case.
+[2026/5/7, 15:05:34] Lara: In that case, I will contact a backup referee. Thank you Grace!
+[2026/5/7, 15:05:39] +15551920014: That sounds like the safest plan. If you want, send me the details anyway and I’ll check on Monday morning.
+[2026/5/7, 15:07:32] Lara: It’s fine, I will just find another referee! Thank you!
+[2026/5/7, 15:07:37] +15551920014: Okay, that makes sense. I hope it works out smoothly for you.
+[2026/5/7, 15:09:10] Lara: /custom theo
+[2026/5/7, 15:09:15] +15551920014: Hey Theo, super random but my visa document is about to be delivered to our building and it needs an in person signature. I’m stuck in class right now, could you maybe receive it and sign for me?
+[2026/5/7, 15:11:03] Lara: Hi Kevin, so sorry I can’t I’m still with my friends at uni
+[2026/5/7, 15:11:09] +15551920014: Ah okay, no worries, thanks anyway. If you happen to head back soon, please let me know, I’m kinda freaking out about it.
+[2026/5/7, 15:12:18] Lara: I should be back in 40 mins tho
+[2026/5/7, 15:12:24] +15551920014: Damn, the delivery could be any minute and if no one signs they’ll send it back. If you can head back a bit earlier I’d seriously owe you.
+[2026/5/7, 15:13:34] Lara: No I can’t, we’re in the middle of a meeting right now, I can’t just leave🤡
+[2026/5/7, 15:13:40] +15551920014: Yeah I get it, sorry, I’m just really stressed because my visa expires soon. If you think of anyone else in the building who might be home, can you text me?
+[2026/5/7, 15:14:28] Lara: Leo should be in the building now, he got no class today
+[2026/5/7, 15:14:35] +15551920014: Ohhh perfect, can you send me Leo’s number or message him for me please? This is actually saving me right now.
+[2026/5/7, 15:15:02] Lara: 08468847
+[2026/5/7, 15:15:07] +15551920014: Thanks so much, I’m gonna try him now. Really appreciate it.
+[2026/5/7, 15:15:21] Lara: 👌
+[2026/5/7, 15:15:27] +15551920014: You’re a lifesaver, thanks. I’ll update you.
+[2026/5/7, 15:31:37] Lara: /baseline
+[2026/5/7, 15:32:21] +15551920014: Switched to baseline role play. Please send the student's first message.
+[2026/5/7, 15:32:22] +15551920014: Switched to baseline role play. Please send the student's first message.
+[2026/5/7, 15:43:21] Lara: Dear Grace, I hope you are well. I am very sorry to interrupt you on Friday night, because I am worrying about my application about the online summer camp. I think I have emailed you before, which was a request for a recommendation letter from you. Since the deadline of submission is next Monday morning, could you please update me some follow up about this?
+[2026/5/7, 15:43:36] +15551920014: Hi, hope you're doing okay. I’ve just seen this now and I don’t remember seeing your email before, and I’m about to be offline until Monday morning, so I probably can’t sort the letter in time tonight.
+
+If you can, please resend the email now with the programme details and deadline, and I’ll check first thing Monday morning to see if there’s still any chance.
+[2026/5/7, 15:48:26] Lara: Yes sure. I’ve resent them to you. Please check them when you’re available
+[2026/5/7, 15:48:32] +15551920014: Thanks, I’ll look for it when I’m back on Monday morning. If the application lets you submit my reference a little later, that would probably be the best option.
+[2026/5/7, 15:56:35] Lara: Probably not, I think they won’t change the deadline for me… If I may, could you please help me to complete the reference letter on this weekend? I would appreciate you so much for this!! Also I know the weekend is your rest time, so feel free to decide by yourself
+[2026/5/7, 15:56:41] +15551920014: I’m really sorry, but I won’t be able to do it over the weekend. If you want, send a quick follow up to the summer camp tonight explaining that your referee only just saw the request and asking whether they can accept a late reference on Monday.
+[2026/5/7, 15:59:36] Lara: Thank you for let me know. I fully understand your concern, and hope you have a nice weekend.
+[2026/5/7, 15:59:42] +15551920014: Thanks for understanding, and I’m sorry about the timing. If they reply and can accept it on Monday, send me a message and I’ll do my best to help then.
+[2026/5/7, 16:00:37] Lara: /custom Leo
+[2026/5/7, 16:01:43] Lara: /help
+[2026/5/20, 01:09:18] +15551920014: *Order confirmed*
+Hi John Doe,
+
+Thank you for your purchase! Your order number is 123456.
+
+We'll start getting your farm fresh groceries ready to ship.
+
+Estimated delivery:  May 20, 2026.
+
+We will let you know when your order ships.
+[2026/5/20, 01:10:23] Lara: /help
+[2026/5/20, 01:10:26] +15551920014: Available commands:
+/baseline: switch to baseline role play and reset history
+/custom: switch to customized role play and let Kevin send the first message
+/custom Name: customized role play with participant name
+/customise: same as /custom
+/reset: reset conversation history
+/mode: check current mode
+/help: show this help message
+[2026/5/20, 01:12:45] Lara: /restart
+[2026/5/20, 01:13:00] +15551920014: Hi, hope you're doing okay. What’s happened?
+[2026/5/20, 01:17:14] Lara: /help
+[2026/5/20, 01:17:18] +15551920014: Hi! Before we start, please send your name and task code in this format:
+Name B Task1
+Name B Task2
+Name C Task1
+Name C Task2
+
+For example: Lara B Task1
+[2026/5/20, 01:17:47] Lara: Lara B Task1
+[2026/5/20, 01:17:51] +15551920014: Thanks Lara. You are now in B Task1. Please start the role play by sending the student's first message.
+[2026/5/20, 01:18:58] Lara: Hi Grace, sorry to message you so late. I just wanted to gently follow up on the recommendation letter I emailed about last week. The deadline is next Monday at 9:00 am, so I’m getting a little anxious and wanted to check whether it might still be possible. I completely understand you’re busy, and I really appreciate your help.😀
+[2026/5/20, 01:19:14] +15551920014: Hi Lara, hope you're okay.
+[2026/5/20, 01:19:16] +15551920014: Thanks for messaging me.
+[2026/5/20, 01:19:18] +15551920014: I honestly don't remember seeing your email, and I'm heading off very early tomorrow so I'm not sure I'll be available before Monday morning.
+[2026/5/20, 01:19:20] +15551920014: Could you resend it here now with the deadline details and what you need from me?
+[2026/5/20, 01:19:22] +15551920014: If I can manage it, I'll try to look at it before then.
+[2026/5/20, 01:19:36] +15551920014: If it’s easier, just send the key details here first.
+[2026/5/20, 01:21:18] Lara: Hi Grace, thank you so much for getting back to me. 😊No worries at all.I’ll resend the details here now.
+[2026/5/20, 01:21:24] Lara: The recommendation letter is for an online summer camp focused on leadership and public speaking skills. The deadline is next Monday at 9:00 am. They just need a short reference from a teaching staff member who knows me well. I was hoping you might be able to comment on my participation in your classes and office hours, if that’s okay.
+[2026/5/20, 01:21:27] +15551920014: Thanks, Lara.
+[2026/5/20, 01:21:29] +15551920014: Send them through, and I’ll see what I can do.
+[2026/5/20, 01:21:34] +15551920014: Yes, that sounds fine.
+[2026/5/20, 01:21:36] +15551920014: Please send me the submission link or email address, and if they gave any instructions about length or questions, send that too.
+[2026/5/20, 01:21:51] +15551920014: Also, if they need it on headed paper or as a form, let me know.
+[2026/5/20, 01:22:29] Lara: Thank you so much, Grace. I’ll send everything through now.
+[2026/5/20, 01:22:37] +15551920014: Great, thanks.
+[2026/5/20, 01:22:39] +15551920014: I can’t promise yet, but send it over and I’ll do my best.
+[2026/5/20, 01:22:52] Lara: I’ll also send my CV and the camp details. I don’t think they require headed paper, but the letter should be around one page if possible. I’m not aware of any specific questions, just a general recommendation about my suitability for the camp.
+[2026/5/20, 01:22:54] +15551920014: Just send it whenever you’re ready tonight.
+[2026/5/20, 01:23:00] +15551920014: Perfect, that helps.
+[2026/5/20, 01:23:02] +15551920014: Send the CV, the camp details, and the submission contact, and I’ll check it when I can.
+[2026/5/20, 01:23:17] +15551920014: If there’s a form as well, include that too.
+[2026/5/20, 01:24:01] Lara: Thank you so much, Grace. I’ll send them through now. I really appreciate you checking it when you can. Please let me know if you need anything else from me.
+[2026/5/20, 01:24:09] +15551920014: You’re welcome, Lara.
+[2026/5/20, 01:24:11] +15551920014: Once I’ve seen it, I’ll let you know if I need anything else.
+[2026/5/20, 01:24:26] +15551920014: If possible, include the exact deadline time zone as well.
+[2026/5/20, 01:29:54] Lara: /help
+[2026/5/20, 01:29:58] +15551920014: Hi! Before we start, please send your name and task code in this format:
+Name B Task1
+Name B Task2
+Name C Task1
+Name C Task2
+
+For example: Lara B Task1
+[2026/5/21, 10:33:26] +15551920014: *Hello World*
+Welcome and congratulations!! This message demonstrates your ability to send a WhatsApp message notification from the Cloud API, hosted by Meta. Thank you for taking the time to test with us.
+[2026/5/21, 10:41:40] +15551920014: *Hello World*
+Welcome and congratulations!! This message demonstrates your ability to send a WhatsApp message notification from the Cloud API, hosted by Meta. Thank you for taking the time to test with us.
+[2026/5/21, 11:03:23] Lara: /help
+[2026/5/21, 11:03:56] +15551920014: *Hello World*
+Welcome and congratulations!! This message demonstrates your ability to send a WhatsApp message notification from the Cloud API, hosted by Meta. Thank you for taking the time to test with us.
+[2026/5/21, 11:04:02] Lara: /help
+[2026/5/21, 11:04:04] +15551920014: Hi! Before we start, please send your name and task code in this format:
+Name B Task1
+Name B Task2
+Name C Task1
+Name C Task2
+
+For example: Lara B Task1
+[2026/5/21, 11:04:06] +15551920014: Hi! Before we start, please send your name and task code in this format:
+Name B Task1
+Name B Task2
+Name C Task1
+Name C Task2
+
+For example: Lara B Task1
+[2026/5/21, 11:04:08] +15551920014: Hi! Before we start, please send your name and task code in this format:
+Name B Task1
+Name B Task2
+Name C Task1
+Name C Task2
+
+For example: Lara B Task1
+[2026/5/21, 11:06:34] Lara: Asyifa C Task 1
+[2026/5/21, 11:06:39] +15551920014: Thanks Asyifa. You are now in C Task1. Please start the role play by sending the student's first message.
+[2026/5/21, 11:09:05] Lara: Hi Grace, I am Asyifa, one of your students. 
+
+Last week, I sent you an email to request a recommendation letter for an online summer camp I’m planning to attend. 
+
+If you are available for a quick talk, I am wondering if it would be possible to discuss about this extension request?
+
+Thank you so much in advance for your help🙏
+[2026/5/21, 11:09:29] +15551920014: Hi Asyifa, hope you're doing okay.
+[2026/5/21, 11:09:31] +15551920014: I’ve just seen this now and I don’t remember spotting your email, sorry 😅
+[2026/5/21, 11:09:33] +15551920014: I’m about to sleep because I have to leave very early tomorrow, so I’m not sure I’ll be available before Monday morning.
+[2026/5/21, 11:09:36] Lara: /help
+[2026/5/21, 11:09:36] +15551920014: If you want, send me the deadline and the main details here now, and I’ll tell you honestly whether I can manage it or whether you should ask someone else as a backup.
+[2026/5/21, 11:09:45] +15551920014: Do you want me to continue the WhatsApp roleplay as Grace, or do you want help understanding what to reply next?
+[2026/5/21, 11:09:47] +15551920014: If you want the roleplay, just send Asyifa’s next message and I’ll reply in character.
+[2026/5/21, 11:09:56] Lara: /help
+[2026/5/21, 11:10:07] +15551920014: If you mean you want help with the roleplay, here’s what Grace would likely say next in a natural WhatsApp style:
+[2026/5/21, 11:10:09] +15551920014: “If it’s urgent, just send me the deadline and what the summer camp needs from the recommender.”
+[2026/5/21, 11:10:11] +15551920014: “If the deadline is before Monday, it might be safer to contact another lecturer too, just in case 🙏”
+[2026/5/21, 11:10:14] +15551920014: If you want, I can also help you write Asyifa’s next message.
+[2026/5/21, 11:10:16] +15551920014: *Hello World*
+Welcome and congratulations!! This message demonstrates your ability to send a WhatsApp message notification from the Cloud API, hosted by Meta. Thank you for taking the time to test with us.
+[2026/5/21, 11:10:23] Lara: /help
+[2026/5/21, 11:10:33] +15551920014: You can reply as Asyifa with something like:
+[2026/5/21, 11:10:35] +15551920014: “Thank you so much, Grace. The deadline is Sunday night, and they need a short recommendation letter from a lecturer.”
+[2026/5/21, 11:10:38] +15551920014: “I can send you the details here now, but I will also contact another lecturer as a backup in case it’s too rushed.”
+[2026/5/21, 11:10:40] +15551920014: If you want, I can make it sound more formal, more natural, or more urgent.
+[2026/5/21, 11:10:55] +15551920014: *Hello World*
+Welcome and congratulations!! This message demonstrates your ability to send a WhatsApp message notification from the Cloud API, hosted by Meta. Thank you for taking the time to test with us.
+[2026/5/21, 11:11:03] Lara: /help
+[2026/5/21, 11:11:17] +15551920014: A good next message from Asyifa would be:
+[2026/5/21, 11:11:20] Lara: syifa C Task 1
+[2026/5/21, 11:11:19] +15551920014: “Thank you, Grace. The deadline is Sunday at 11:59 pm.”
+[2026/5/21, 11:11:22] +15551920014: “They need a short recommendation letter, and I can send the application link plus my CV and personal statement here now.”
+[2026/5/21, 11:11:25] +15551920014: “I understand it’s late, so I’ll also contact another lecturer as a backup. Sorry for the short notice 🙏”
+[2026/5/21, 11:11:27] +15551920014: If you want, I can also give you Grace’s likely reply after that.
+[2026/5/21, 11:11:29] +15551920014: Thanks syifa. You are now in C Task1. Please start the role play by sending the student's first message.
+[2026/5/21, 11:14:06] Lara: Hi Grace, I am Syifa, one of your students.
+
+Last week, I sent you an email to request a recommendation letter for me to apply for an online summer camp. 
+
+If you are available for a quick talk, I am wondering if you’re willing to discuss about this request?
+
+Thank you very much in advance🙏
+[2026/5/21, 11:14:19] +15551920014: Hi Syifa, hope you're doing okay. I’ve just seen this now and I don’t remember catching your email, sorry 😅
+[2026/5/21, 11:14:21] +15551920014: I’m actually heading off very early tomorrow and I’m not sure I’ll be free before Monday morning.
+[2026/5/21, 11:14:23] +15551920014: If the deadline isn’t immediate, could you resend the email and put the deadline plus the info I’d need in it?
+[2026/5/21, 11:14:26] +15551920014: If it’s urgent, tell me the deadline here and we’ll see what’s possible.
+[2026/5/21, 11:15:52] Lara: Thank you so much for replying, Grace. The application deadline is next Monday at 9 am, so I am wondering if it’s still possible to request for this letter?
+[2026/5/21, 11:16:04] +15551920014: I think it might still be possible, but I can’t promise yet.
+[2026/5/21, 11:16:07] +15551920014: Please resend the email tonight with the program details, the deadline, your CV, and a short reminder of which classes you took with me and anything you’d like me to highlight.
+[2026/5/21, 11:16:09] +15551920014: If I can manage it before Monday 9 am, I will. If not, I want to be honest with you now so you can also ask someone else as a backup.
+[2026/5/21, 11:18:05] Lara: Thank you so much for your consideration, Grace. I will resend the email now and add the information you asked for. I will also consider other options just in case you don’t have enough time. Once again thank you for your time, and I apologize for the inconvenience🙏
+[2026/5/21, 11:18:16] +15551920014: That sounds good, thank you Syifa.
+[2026/5/21, 11:18:18] +15551920014: No need to apologize at all 🙂 send it through, and I’ll check what I can do.
+[2026/5/21, 11:21:15] Lara: syifa B Task 2
+[2026/5/21, 11:21:25] +15551920014: Hey Syifa, sorry this is urgent, but an important visa document is about to be delivered to our building and it needs an in person signature.
+[2026/5/21, 11:21:27] +15551920014: I’m stuck in class for a presentation, could you maybe help receive it and sign for it for me?
+[2026/5/21, 11:23:24] Lara: Hi Kevin, I’m so sorry I’m in the middle of a meeting right now😬so it’s not possible for me to come home. Maybe ask other residents that you know to do it?
+[2026/5/21, 11:23:36] +15551920014: Ahh okay, no worries.
+[2026/5/21, 11:23:38] +15551920014: It’s really important for my visa and they’ll return it if no one signs, so I’m kind of panicking a bit. Do you know if anyone else in the building is home right now that I could text?
+[2026/5/21, 11:24:22] Lara: Uhh i think my roommate is at home right now, her name is Sarah and you can DM her on insta @sarahoninsta
+[2026/5/21, 11:24:32] +15551920014: Oh my god thank you, that helps a lot.
+[2026/5/21, 11:24:34] +15551920014: Could you maybe text her first too so she knows it’s me and it’s urgent?
+[2026/5/21, 11:25:17] Lara: I’ll send her a text. just let her know the details yourself👍 she’s friendly don’t worry
+[2026/5/21, 11:25:28] +15551920014: You’re a lifesaver, thank you.
+[2026/5/21, 11:25:30] +15551920014: I’ll message her now and hope I catch the delivery in time.
+[2026/5/21, 11:25:42] Lara: No worries ☺️ hope it goes well
+[2026/5/21, 11:25:54] +15551920014: Thanks, I really owe you one.
+[2026/5/21, 11:25:56] +15551920014: I’ll let you know what happens after the presentation.
+[2026/5/21, 11:29:03] +15551920014: Hey, just wanted to say Sarah managed to help and the package got signed for.
+[2026/5/21, 11:29:06] +15551920014: Thanks again for sorting that out for me.
+[2026/5/25, 11:50:28] +15551920014: Welcome to Jasper’s Market, your local grocery store providing farm-fresh produce and high-quality goods!
+[2026/5/25, 11:50:34] Lara: /help
+[2026/5/25, 11:50:38] +15551920014: Hi! Before we start, please send your name and task code in this format:
+Name B Task1
+Name B Task2
+Name C Task1
+Name C Task2
+
+For example: Lara B Task1
+[2026/5/26, 13:16:53] +15551920014: *Hello World*
+Welcome and congratulations!! This message demonstrates your ability to send a WhatsApp message notification from the Cloud API, hosted by Meta. Thank you for taking the time to test with us.
+[2026/5/26, 13:47:07] Lara: Sally B Task 1
+[2026/5/26, 13:47:52] +15551920014: Thanks Sally. You are now in B Task1. Please start the role play by sending the student's first message.
+[2026/5/26, 13:47:53] +15551920014: Thanks Sally. You are now in B Task1. Please start the role play by sending the student's first message.
+[2026/5/26, 13:50:26] Lara: Hi Grace. Sorry to bother you. I am Sally, your student at the University of Melbourne. Last week, I emailed you about my recommendation letter. The summer campus noticed me that the deadline is next Monday at 9 am, so I am wondering if you can send the letter to them before that day?
+[2026/5/26, 13:50:45] +15551920014: Hi Sally, hope you're doing okay.
+[2026/5/26, 13:50:47] +15551920014: I’m so sorry, but I don’t remember seeing that email.
+[2026/5/26, 13:50:49] +15551920014: I’m about to sleep now and I’m not sure I’ll be available before Monday morning.
+[2026/5/26, 13:50:52] +15551920014: Could you resend the email tonight with the details and the submission link, and put “urgent recommendation letter” in the subject?
+[2026/5/26, 13:50:54] +15551920014: I’ll check if I can do anything when I next have signal tomorrow or Sunday.
+[2026/5/26, 13:51:01] +15551920014: Hi Sally, hope you're doing okay.
+[2026/5/26, 13:51:04] +15551920014: I’m sorry, but I don’t remember seeing that email.
+[2026/5/26, 13:51:06] +15551920014: I’m heading off very early tomorrow and I’m not sure whether I’ll be free before Monday morning.
+[2026/5/26, 13:51:08] +15551920014: Could you resend it tonight with the deadline, the submission details, and your CV if you have one?
+[2026/5/26, 13:51:11] +15551920014: If I can get to it over the weekend, I will.
+[2026/5/26, 13:51:40] Lara: Okay! Thanks for your help. I will send them to you asap
+[2026/5/26, 13:51:48] +15551920014: Thanks, Sally.
+[2026/5/26, 13:51:50] +15551920014: Send everything in one email and I’ll look out for it when I can.
+[2026/5/26, 13:51:59] Lara: Ok, sure.
+[2026/5/26, 13:52:06] +15551920014: Great, thanks.
+[2026/5/26, 13:52:08] +15551920014: If I can’t submit it in time, I’ll let you know as soon as I see your email.
+[2026/5/26, 13:53:37] Lara: Thanks Grace. Maybe I can contact to another tutor and ask whether they can help me.
+[2026/5/26, 13:53:46] +15551920014: Yes, that would be a good backup.
+[2026/5/26, 13:53:48] +15551920014: If another tutor can do it sooner, I’d suggest asking them as well just in case.
+[2026/5/26, 13:54:03] Lara: Two letters are also available for this camp.
+[2026/5/26, 13:54:12] +15551920014: That helps.
+[2026/5/26, 13:54:14] +15551920014: If you can get a second letter from another tutor, please do, and still send me your materials tonight in case I can submit mine too.
+[2026/5/26, 13:54:48] Lara: Sure. I will email Shashini about that.
+[2026/5/26, 13:54:57] +15551920014: That sounds sensible.
+[2026/5/26, 13:54:59] +15551920014: Send me your email as well, and I’ll do my best if I’m able to access it this weekend.
+[2026/5/26, 13:55:10] +15551920014: Currently, only text messages are supported.
+[2026/5/26, 13:55:20] Lara: Sure. Thanks so much🙏
+[2026/5/26, 13:55:30] +15551920014: You’re welcome, Sally.
+[2026/5/26, 13:55:32] +15551920014: Good plan to contact Shashini too, and I’ll check for your email when I can.
+[2026/5/26, 13:57:44] Lara: Sally B Task 2
+[2026/5/26, 13:57:53] +15551920014: Hey Sally, really sorry to ask out of nowhere but an important visa document is about to be delivered to our building and it needs an in person signature.
+[2026/5/26, 13:57:56] +15551920014: I’m stuck in class for a presentation right now, could you possibly receive it and sign for me?
+[2026/5/26, 13:59:58] Lara: That’s sound bad🥲
+[2026/5/26, 14:00:07] +15551920014: Yeah, I’m kind of freaking out because if no one signs for it, it gets sent back.
+[2026/5/26, 14:00:10] +15551920014: Are you home right now by any chance?
+[2026/5/26, 14:00:59] Lara: I am doing a meeting now, and cannot go home.
+[2026/5/26, 14:01:14] +15551920014: Ah okay, no worries.
+[2026/5/26, 14:01:17] +15551920014: Do you know if anyone else in the building might be home and could help, or maybe could you text the group chat for me?
+[2026/5/26, 14:01:33] Lara: Maybe Celina?
+[2026/5/26, 14:01:43] +15551920014: Yes maybe, could you message Celina for me please?
+[2026/5/26, 14:01:45] +15551920014: I’m about to present so I can’t really text properly right now.
+[2026/5/26, 14:01:50] Lara: She is playing chess at the sixth floor.
+[2026/5/26, 14:02:00] +15551920014: Oh that might actually save me.
+[2026/5/26, 14:02:00] Lara: I guess you can ask her.
+[2026/5/26, 14:02:02] +15551920014: Could you call her quickly and ask if she can go down to receive a visa document for me and sign for it?
+[2026/5/26, 14:02:10] +15551920014: I would, but I’m literally about to start presenting and can’t leave or use my phone properly.
+[2026/5/26, 14:02:12] +15551920014: Could you please help me this once and call her?
+[2026/5/26, 14:02:16] Lara: Do you have her contact number?
+[2026/5/26, 14:02:28] +15551920014: No, I don’t have it saved, that’s why I’m asking you.
+[2026/5/26, 14:02:30] +15551920014: If you can reach her, please tell her it’s for Kevin in apt 4B and it needs a signature.
+[2026/5/26, 14:02:48] Lara: Ok sure. I will send information to her.
+[2026/5/26, 14:02:58] +15551920014: Thank you so much, seriously.
+[2026/5/26, 14:03:01] +15551920014: Please let me know if she says yes.
+[2026/5/26, 14:03:18] Lara: Just take a signature for ur parcel?
+[2026/5/26, 14:03:29] +15551920014: Yes, just receive it from the courier and sign for it for me.
+[2026/5/26, 14:03:31] +15551920014: It’s a really important visa document, so I just need someone there when it arrives.
+[2026/5/26, 14:27:10] Lara: Nancy B Task 1
+[2026/5/26, 14:27:36] Lara: /help
+[2026/5/26, 14:27:55] +15551920014: Thanks Nancy. You are now in B Task1. Please start the role play by sending the student's first message.
+[2026/5/26, 14:28:09] +15551920014: Hi Nancy, hope you're doing okay.
+[2026/5/26, 14:28:11] +15551920014: I just saw this now. What do you need help with?
+[2026/5/26, 14:28:13] +15551920014: Thanks Nancy. You are now in B Task1. Please start the role play by sending the student's first message.
+[2026/5/26, 14:28:19] +15551920014: Hi Nancy, hope you're okay.
+[2026/5/26, 14:28:21] +15551920014: I just saw this now and I don't remember seeing your email, sorry.
+[2026/5/26, 14:28:23] +15551920014: I'm heading off very early tomorrow and I'm not sure I'll be available before Monday morning.
+[2026/5/26, 14:28:25] +15551920014: Can you send me the main issue here in a message now, and if it's urgent I'll try to advise quickly?
+[2026/5/26, 14:28:27] +15551920014: Thanks Nancy. You are now in B Task1. Please start the role play by sending the student's first message.
+[2026/5/26, 14:40:38] Lara: Hi Grace, how are you. Sorry to bother you, I know you’re very busy. I want to follow up my previous request where I ask you a reference for an online summer camp. Did you receive my message? I would appreciate it if you are available to be. But if you have concerns or have no time, it’ll be ok as well! Just let me know. Due to the application deadline is coming, I am little bit anxious about it. Thanks again! Looking forward to your reply!
+[2026/5/26, 14:40:49] +15551920014: Hi Nancy, hope you're doing okay.
+[2026/5/26, 14:40:52] +15551920014: I’ve just seen this now, and I don’t remember seeing your earlier email, sorry.
+[2026/5/26, 14:40:53] +15551920014: I’m heading away very early tomorrow and I’m not sure I’ll be available before Monday morning.
+[2026/5/26, 14:40:56] +15551920014: If the deadline is before then, could you resend the details here now, including the deadline and what they need from me?
+[2026/5/26, 14:40:58] +15551920014: If it’s very urgent, it may also be safest to ask a backup referee tonight just in case.
+[2026/5/26, 14:44:03] +15551920014: Nancy, if you still need this, please send me the deadline and the reference link or form here.
+[2026/5/26, 14:44:20] Lara: Yes, the deadline is next Monday at 9:00am. They will mail you a reference form.
+[2026/5/26, 14:44:29] +15551920014: Okay, thanks.
+[2026/5/26, 14:44:32] +15551920014: Please ask them to send it to me tonight if possible, and send me the program name here so I know what it’s for.
+[2026/5/26, 14:44:34] +15551920014: I can’t promise I’ll see it before Monday morning, but if it arrives and I have a chance, I’ll complete it.
+[2026/5/26, 14:46:38] Lara: Sure, I will ask them right now. And the program name is Leadership and Public Speaking.
+[2026/5/26, 14:46:49] +15551920014: Thanks, that helps.
+[2026/5/26, 14:46:51] +15551920014: Send it through as soon as you can, and if they have any issue with timing, it would still be wise to line up a backup referee too.
+[2026/5/26, 14:47:45] Lara: Thank you so much! They have already sent the form to you, did you see that?
+[2026/5/26, 14:47:53] +15551920014: Not yet on my side.
+[2026/5/26, 14:47:56] +15551920014: If you want, send me the sender name or email subject here so I can look out for it more easily.
+[2026/5/26, 14:48:17] Lara: Yes, I will. Thanks for reminding me.
+[2026/5/26, 14:48:26] +15551920014: No problem.
+[2026/5/26, 14:48:29] +15551920014: Send that when you have it, and I’ll check if I can catch it.
+[2026/5/26, 14:48:41] Lara: Ok, please wait me a sec
+[2026/5/26, 14:48:49] +15551920014: Sure.
+[2026/5/26, 14:50:31] Lara: Nancy B Task 2
+[2026/5/26, 14:50:40] +15551920014: Hey Nancy, sorry this is sudden but an urgent visa document is being delivered to our building soon and it needs an in person signature.
+[2026/5/26, 14:50:42] +15551920014: I’m stuck in class for a presentation, could you possibly help receive it and sign for it for me?
+[2026/5/26, 14:52:40] Lara: Hi Kevin, come on, it’s a big problem.
+[2026/5/26, 14:52:49] +15551920014: I know, I’m kind of freaking out.
+[2026/5/26, 14:52:51] +15551920014: If no one signs, they’ll return it and my visa could get seriously delayed, can you help me just this once?
+[2026/5/26, 14:55:58] +15551920014: Nancy, are you home by any chance?
+[2026/5/26, 14:56:09] Lara: I really want to help. But I am currently attending a meeting with my group project members. I have prepared important questions to ask, and I don’t want to miss it. It is relevant to our assignment.
+[2026/5/26, 14:56:19] +15551920014: Ah okay, I get it.
+[2026/5/26, 14:56:21] +15551920014: Do you think you could slip out just for 2 minutes if the delivery person buzzes, or maybe leave me your apartment number so I can try asking a neighbor near you?
+[2026/5/26, 14:57:35] Lara: I will give you my apartment number. Unit 4623
+[2026/5/26, 14:57:46] +15551920014: Thanks, seriously.
+[2026/5/26, 14:57:48] +15551920014: If the courier calls or buzzes, could you please grab it if you can and sign for Kevin? It should be arriving very soon.
+[2026/5/26, 14:58:35] Lara: You can try asking a neighbor
+[2026/5/26, 14:58:44] Lara: I am in the meeting now
+[2026/5/26, 14:58:45] +15551920014: Yeah, I’ll do that too just in case.
+[2026/5/26, 14:58:47] +15551920014: Thanks for the unit number, and if you do get a chance to grab it, that would honestly save me.
+[2026/5/26, 14:58:54] +15551920014: Got it, I won’t keep bothering you.
+[2026/5/26, 14:58:57] +15551920014: I’ll try a neighbor now, thanks anyway.
+[2026/5/26, 14:59:08] Lara: Ok 👌
+[2026/5/26, 14:59:16] +15551920014: Thanks Nancy, I really appreciate it.
+[2026/5/26, 14:59:21] Lara: Hope you can handle it
+[2026/5/26, 14:59:31] +15551920014: I hope so too, this timing is awful.
+[2026/5/26, 14:59:33] +15551920014: I’ll let you know what happens.
+[2026/5/26, 15:01:34] Lara: Xiaoyu B Task 1
+[2026/5/26, 15:05:53] +15551920014: *Hello World*
+Welcome and congratulations!! This message demonstrates your ability to send a WhatsApp message notification from the Cloud API, hosted by Meta. Thank you for taking the time to test with us.
+[2026/5/26, 15:06:02] Lara: Xiaoyu B Task 1
+[2026/5/26, 15:06:05] +15551920014: Thanks Xiaoyu. You are now in B Task1. Please start the role play by sending the student's first message.
+[2026/5/26, 15:11:27] Lara: Dear Grace 
+I am xiaoyu and I am writing to u for kindly request a recommendation letter for an online summer camp.
+I know that it is sry to bother u at this time but the deadline of my application is coming. Because my email one week before may be missed, I have to sent u a new email.
+This summer camp could be beneficial to my leadership and public speaking ability so I really want to join it. So ur recommendation letter is vital to me.
+I hope u could help me at the tough time and could support my application.
+Best regards 
+Xiaoyu
+[2026/5/26, 15:11:40] +15551920014: Hi Xiaoyu, hope you're doing okay.
+[2026/5/26, 15:11:43] +15551920014: I’m just seeing this now, and I don’t remember catching your earlier email.
+[2026/5/26, 15:11:44] +15551920014: I’m about to sleep because I have to leave very early tomorrow, so I’m not sure I’ll be available before Monday morning.
+[2026/5/26, 15:11:47] +15551920014: What’s the exact deadline, and would a short recommendation note work if I can send one in time?
+[2026/5/26, 15:13:18] Lara: The exact deadline is Monday 9 am. It is really sry to bother u at this time.
+[2026/5/26, 15:13:26] +15551920014: Okay, thanks for telling me.
+[2026/5/26, 15:13:29] +15551920014: That’s very tight, but I can try if you send me the new email tonight with the camp info, the submission method, and 3 or 4 points you want me to mention.
+[2026/5/26, 15:13:31] +15551920014: If it needs to be uploaded by me directly, say that clearly in the email.
+[2026/5/26, 15:16:16] Lara: Thanks for ur support. I will send email to u for further details.
+[2026/5/26, 15:16:24] +15551920014: Okay, send it now and I’ll look for it before I sleep if I can.
+[2026/5/26, 15:16:26] +15551920014: If I don’t manage tonight, I’ll check again as soon as I’m able.
+[2026/5/26, 15:17:37] Lara: Xiaoyu B Task 2
+[2026/5/26, 15:17:45] +15551920014: Hey Xiaoyu, sorry this is sudden, but an important visa document is being delivered to our building really soon and it needs an in-person signature.
+[2026/5/26, 15:17:47] +15551920014: I’m stuck in class for a presentation, could you possibly help receive it and sign for me?
+[2026/5/26, 15:20:52] +15551920014: Hey, just checking if you saw this. It’s pretty urgent because they’ll send it back if no one signs for it.
+[2026/5/26, 15:21:25] Lara: Sry Kevin I know ur concerns. But I am attending a vital meeting in school which may last 30 minutes.
+Could u ask the delivery man to deliver it after 1hour so that I could finish the meeting and back home.
+I could help u if the delivery man will come again 1 hour later.
+[2026/5/26, 15:21:33] +15551920014: Ah okay, thanks anyway. I’ll try calling the courier now and see if they can come later.
+[2026/5/26, 15:21:35] +15551920014: If they agree to redeliver in about an hour, could you help me sign for it then?
+[2026/5/26, 15:22:15] Lara: Of course. I will let u know when I sign and receive the document.
+[2026/5/26, 15:22:23] +15551920014: Thank you so much, seriously.
+[2026/5/26, 15:22:25] +15551920014: I’ll message you as soon as the courier confirms the new time.
+[2026/5/26, 15:25:30] +15551920014: Hey, quick update, I’m still trying to get through to the courier about the redelivery time.
+[2026/5/26, 15:30:27] Lara: Amber Li B Task 1
+[2026/5/26, 15:30:30] +15551920014: Thanks Amber Li. You are now in B Task1. Please start the role play by sending the student's first message.
+[2026/5/26, 15:33:02] Lara: hey Grace, how are you? I just wanted to check with you that you received my email about asking for a recommendation letter. I hope you are happy to do it for me🥹
+[2026/5/26, 15:33:13] +15551920014: Hi Amber, hope you’re doing okay.
+[2026/5/26, 15:33:15] +15551920014: I’ve just seen this message and I don’t remember seeing your email come through.
+[2026/5/26, 15:33:18] +15551920014: I’m about to head to bed because I’m leaving very early tomorrow, and I’m not sure I’ll be available before Monday morning.
+[2026/5/26, 15:33:20] +15551920014: Could you resend the email now so I can look for it properly when I can?
+[2026/5/26, 15:34:13] Lara: Yeah absolutely, thank you for replying. I just resent the email to you again
+[2026/5/26, 15:34:22] +15551920014: Thanks Amber, I’ll check for it when I can.
+[2026/5/26, 15:34:25] +15551920014: I’m happy to look it over, and if there’s a deadline, send it here too so I know how urgent it is.
+[2026/5/26, 15:34:38] Lara: I think I need to submit the letter before Monday 9am
+[2026/5/26, 15:34:50] +15551920014: Thanks for telling me.
+[2026/5/26, 15:34:53] +15551920014: That timing is tight, and I can’t promise I’ll be able to do it before Monday 9am.
+[2026/5/26, 15:34:53] Lara: I hope the time is okay for you
+[2026/5/26, 15:34:55] +15551920014: If you have another lecturer you can ask as a backup, I really think you should do that tonight.
+[2026/5/26, 15:34:57] +15551920014: If I’m able to get to your email in time, I’ll let you know.
+[2026/5/26, 15:35:06] +15551920014: I really can’t guarantee it, Amber.
+[2026/5/26, 15:35:08] +15551920014: Please ask someone else tonight as well, so you’re covered if I can’t get to it in time.
+[2026/5/26, 15:35:23] Lara: Oh I understand
+[2026/5/26, 15:35:33] +15551920014: Thanks for understanding.
+[2026/5/26, 15:35:36] +15551920014: If I do manage to check my email before then, I’ll message you.
+[2026/5/26, 15:36:48] Lara: I can try to negotiate with the camp about the due date tmr. I just hope you can help me with this, as you have taught me for a long time
+[2026/5/26, 15:36:58] +15551920014: I understand, and I’d be glad to help if the deadline can be pushed back a little.
+[2026/5/26, 15:37:00] +15551920014: If they give you an extension, message me the new date and I’ll tell you what I can do.
+[2026/5/26, 15:37:23] Lara: Yeah definitely i will do that
+[2026/5/26, 15:37:33] +15551920014: Thanks Amber.
+[2026/5/26, 15:37:33] Lara: Thank you for being so supportive
+[2026/5/26, 15:37:35] +15551920014: Hope they can give you a bit more time.
+[2026/5/26, 15:37:44] +15551920014: Of course, Amber.
+[2026/5/26, 15:37:46] +15551920014: Let me know what they say tomorrow.
+[2026/5/26, 15:38:07] Lara: Amber Li B Task 2
+[2026/5/26, 15:38:07] Lara: Amber Li B Task 2
+[2026/5/26, 15:38:16] +15551920014: Hey Amber, really sorry but an urgent visa document is about to be delivered to our building and it needs an in person signature.
+[2026/5/26, 15:38:18] +15551920014: I’m stuck in class for a presentation, could you maybe help receive it and sign for me?
+[2026/5/26, 15:38:25] +15551920014: Hey Amber, sorry this is super last minute but an important visa document is about to be delivered to our building and it needs an in person signature.
+[2026/5/26, 15:38:28] +15551920014: I’m stuck in class for a presentation, could you possibly help receive it and sign for it for me?
+[2026/5/26, 15:39:14] Lara: Hey Kavin, I’m so sorry… but I’m not at home now
+[2026/5/26, 15:39:26] +15551920014: Ah okay, no worries.
+[2026/5/26, 15:39:28] +15551920014: Do you know if you’ll be back soon, or if maybe your roommate is home and could help?
+[2026/5/26, 15:40:25] Lara: No way I probably will back later tonight. You can text my roommate, I’m not sure where she is now
+[2026/5/26, 15:40:37] +15551920014: Got it, thanks.
+[2026/5/26, 15:40:39] +15551920014: Do you mind sending me your roommate’s number really quick? This package is for my visa stuff so I’m kinda panicking.
+[2026/5/26, 15:41:38] Lara: What Kevin, if that’s about your visa, you should sign it by yourself. Just don’t leave it to others
+[2026/5/26, 15:41:50] +15551920014: I know, I really would if I could.
+[2026/5/26, 15:41:52] +15551920014: I’m literally stuck in class about to present, and if no one signs they’ll return it to the sender, so I’m just trying to avoid that.
+[2026/5/26, 15:41:59] Lara: Maybe you can ask the front desk of our building
+[2026/5/26, 15:42:11] +15551920014: Yeah I’m thinking that too.
+[2026/5/26, 15:42:14] +15551920014: Do you know if they’re allowed to sign for residents’ packages, or should I call them right now?
+[2026/5/26, 15:42:31] Lara: Or trying to schedule other time with them
+[2026/5/26, 15:42:42] +15551920014: Yeah, I’ll try calling the courier and the front desk now.
+[2026/5/26, 15:42:43] Lara: Unfortunately, Idk🥹
+[2026/5/26, 15:42:44] +15551920014: Thanks, I’m just stressed because my visa expires soon and I really can’t mess this up.
+[2026/5/26, 15:42:55] +15551920014: It’s okay, thanks anyway.
+[2026/5/26, 15:42:57] +15551920014: I’ll try to sort it out right now and hope they can hold it or redeliver.
+[2026/5/26, 15:43:15] Lara: I feel you, it will work out dear. Don’t worry about it
+[2026/5/26, 15:43:28] +15551920014: Thanks Amber, I really needed that.
+[2026/5/26, 15:43:30] +15551920014: I’ll let you know what happens.
+[2026/5/26, 15:43:31] Lara: You will figure it out, just call them
+[2026/5/26, 15:43:49] Lara: Yeah for sure, update me when you can hahahh
+[2026/5/26, 15:43:54] Lara: Good luck with that
+[2026/5/26, 15:44:04] Lara: 🤞
+[2026/5/26, 15:44:09] +15551920014: Hi! Before we start, please send your name and task code in this format:
+Name B Task1
+Name B Task2
+Name C Task1
+Name C Task2
+
+For example: Lara B Task1
+[2026/5/26, 15:44:11] +15551920014: Hi! Before we start, please send your name and task code in this format:
+Name B Task1
+Name B Task2
+Name C Task1
+Name C Task2
+
+For example: Lara B Task1
+[2026/5/26, 15:44:22] +15551920014: Hi! Before we start, please send your name and task code in this format:
+Name B Task1
+Name B Task2
+Name C Task1
+Name C Task2
+
+For example: Lara B Task1
+[2026/5/26, 15:44:41] Lara: Ekin B Task 1
+[2026/5/26, 15:44:43] +15551920014: Thanks Ekin. You are now in B Task1. Please start the role play by sending the student's first message.
+[2026/5/26, 15:49:31] Lara: Good evening Grace, sorry to bother you at this hour however I sent an email a week ago and I haven’t received a reply therefore I thought maybe I could text you. I was just wondering if it would be possible to write a recommendation letter for me to apply an online summer camp this weekend?
+[2026/5/26, 15:49:47] +15551920014: Hi Ekin, hope you’re doing okay.
+[2026/5/26, 15:49:50] +15551920014: Sorry, I don’t remember seeing that email.
+[2026/5/26, 15:49:52] +15551920014: I’m about to sleep now and I’m not sure I’ll be available before Monday morning.
+[2026/5/26, 15:49:54] +15551920014: When is the application deadline exactly?
+[2026/5/26, 15:50:13] +15551920014: Ekin, I can’t promise that tonight.
+[2026/5/26, 15:50:15] +15551920014: If the deadline is before Monday, you may need to ask another lecturer who can confirm in time.
+[2026/5/26, 15:52:56] Lara: Oh the deadline is on Monday at 9 am in the morning. If you won’t be able to write, then could you please recommend me someone who can help me with this?
+[2026/5/26, 15:53:05] +15551920014: If it’s Monday at 9, I can’t guarantee I can get it done in time.
+[2026/5/26, 15:53:07] +15551920014: I’d suggest asking your course tutor or your seminar leader first, especially someone who can respond tomorrow.
+[2026/5/26, 15:56:13] Lara: I see… I will also contact my tutor and seminar Leader as well but in the meantime if there’s a slight chance of you writing it before the deadline, I would appreciate it
+[2026/5/26, 15:56:12] +15551920014: If you want, send them a short message tonight so they see it first thing tomorrow.
+[2026/5/26, 15:56:21] +15551920014: I understand.
+[2026/5/26, 15:56:23] +15551920014: If you send me the programme link and a short reminder of what you’d like highlighted, I’ll look when I can, but please treat it as uncertain and continue with your other options.
+[2026/5/26, 15:58:29] Lara: Okay I’ll send my tutor and seminar leader a short message right after this. I’ll also send you the program link and additional information. Thank you so much for your help. I appreciate it.
+[2026/5/26, 15:58:38] +15551920014: That sounds good.
+[2026/5/26, 15:58:39] +15551920014: Send it over, and I’ll check if I can do anything when I have a chance.
+[2026/5/26, 15:59:24] Lara: Ekin B Task 2
+[2026/5/26, 15:59:32] +15551920014: Hey Ekin, really sorry but an urgent visa document is about to be delivered to our building and it needs an in person signature.
+[2026/5/26, 15:59:35] +15551920014: I’m stuck in class for a presentation, could you maybe receive it and sign for me if you’re home?
+[2026/5/26, 16:01:04] Lara: Oh omg I’m in the middle of a meeting as well I don’t think I’ll be able to go home and receive it sorry
+[2026/5/26, 16:01:16] +15551920014: Ah okay, no worries.
+[2026/5/26, 16:01:18] +15551920014: Do you know if anyone else in the building might be home right now and could help?
+[2026/5/26, 16:02:40] Lara: Ah I don’t really have time to talk or text someone since I’m with my tutor rn but maybe you can try to contact the reception?
+[2026/5/26, 16:02:48] +15551920014: Yeah good idea, I’ll try reception now.
+[2026/5/26, 16:02:51] +15551920014: Thanks anyway, I’m kind of panicking because if they return it, it could mess up my visa stuff.
+[2026/5/26, 16:03:55] Lara: Yeah fair I understand I’m pretty sure that the reception will help you don’t worry too much keep me updated I’ll talk to you after my meeting
+[2026/5/26, 16:04:05] +15551920014: Thanks, I really hope so.
+[2026/5/26, 16:04:07] +15551920014: I’ll let you know what happens after the presentation.
+[2026/5/26, 16:04:18] Lara: Ok
+[2026/5/26, 16:04:31] +15551920014: Thanks again.
+[2026/5/26, 16:07:37] +15551920014: Hey, just updating you, reception said they might be able to hold it if the courier agrees, so I’m hoping it works out.
